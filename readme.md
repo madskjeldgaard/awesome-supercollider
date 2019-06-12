@@ -13,8 +13,8 @@
 - [Learning resources](#learning-resources)
   - [Written tutorials](#written-tutorials)
   - [Videos](#videos)
-  - [Research papers](#research-papers)
   - [Books](#books)
+  - [Research papers](#research-papers)
   - [Others](#others)
 - [Packages](#packages)
   - [Live coding](#live-coding)
@@ -49,12 +49,12 @@
 - [Mastercalss "The Ambisonic Toolkit"](http://www.ambisonictoolkit.net/documentation/supercollider/tutorials/) - A general introduction to ambisonics and the ATK
 - [Ultimate Arduino-To-Supercollider Tutorials- Control Signals for Digital Audio](https://www.youtube.com/playlist?list=PLAXkVXyP6y5PF2Xy0hMWiKuIdf2Zu6xnG) - How to use the Arduino micro computers with SC
 
-### Research papers
-- [NNdef: Livecoding Digital Musical Instruments in SuperCollider using Functional Reactive Programming](http://www.friendlyvirus.org/files/Miguel-Negrao-NNdef-FARM-2018.pdf)
-
 ### Books
 - [Introduction to SuperCollider](https://www.logos-verlag.de/cgi-bin/engbuchmid?isbn=4017&lng=eng&id=) - Written by Andrea Valle, includes pdf. Published 2016.
 - [The SuperCollider Book](https://mitpress.mit.edu/books/supercollider-book) – The essential reference. Edited by Scott Wilson, David Cottle and Nick Collins. Foreword by James McCartney. Published 2011.
+
+### Research papers
+- [NNdef: Livecoding Digital Musical Instruments in SuperCollider using Functional Reactive Programming](http://www.friendlyvirus.org/files/Miguel-Negrao-NNdef-FARM-2018.pdf)
 
 ### Others
 - [scinterviews.com](http://scinterviews.com/) - SuperCollider interviews
