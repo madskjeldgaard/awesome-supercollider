@@ -24,6 +24,7 @@
   - [Maths](#maths)
   - [Immersive audio](#immersive-audio)
   - [FX](#fx)
+  - [GUI](#gui)
 - [Clients](#clients)
 - [IDE alternatives](#ide-alternatives)
 - [Forums](#forums)
@@ -56,7 +57,6 @@
 - [Introduction to SuperCollider](https://www.logos-verlag.de/cgi-bin/engbuchmid?isbn=4017&lng=eng&id=) - Written by Andrea Valle, includes pdf. Published 2016.
 - [The SuperCollider Book](https://mitpress.mit.edu/books/supercollider-book) – The essential reference. Edited by Scott Wilson, David Cottle and Nick Collins. Foreword by James McCartney. Published 2011.
 
-
 ### Others
 - [scinterviews.com](http://scinterviews.com/) - SuperCollider interviews
 
@@ -80,6 +80,9 @@
 ### FX
 - [vstplugin](https://git.iem.at/pd/vstplugin/releases) – IEM's VST Plugin integration for SuperCollider (and Pure Data)
 
+### GUI
+- [wsGUI](https://github.com/dyfer/wsGUI.quark) - User interfaces displayed in a web browser, locally and over the network
+
 ## Clients
 - [SuperColliderJS](https://crucialfelix.github.io/supercolliderjs/) - JavaScript client
 - [hsc3](http://hackage.haskell.org/package/hsc3) - Haskell client 
@@ -91,6 +94,7 @@
 - [atom-supercollider](https://github.com/crucialfelix/atom-supercollider) - SuperCollider integration for Atom
 - [scvim](https://github.com/supercollider/scvim) - Vim plugin
 - [scnvim](https://github.com/davidgranstrom/scnvim) - NeoVim plugin
+- [scel](https://github.com/supercollider/scel) - Emacs interface
 
 ## Forums
 - [scsynth.org](http://scsynth.org/) - Official SuperCollider forum
@@ -100,7 +104,9 @@
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+All contributions welcome! 
+
+Read the [contribution guidelines](contributing.md) first.
 
 ## License
 
