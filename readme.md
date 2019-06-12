@@ -44,11 +44,10 @@
 - [Pseudoclasses with events](https://web.archive.org/web/20141008053015/http://www.tmroyal.com/supercollider-pseudoclasses-with-events.html) - Faking object-oriented programming in SuperCollider with Events
 
 ### Videos
-- [Eli Fieldsteel's video tutorials](https://www.youtube.com/watch?v=yRzsOOiJ_p4&list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC)
-- [Michael Bratt's live coding video tutorial](https://youtu.be/0TtxZQUOGGw)
-- [Joseph Anderson: Ambisonic Toolkit for SuperCollider](http://www.ambisonictoolkit.net/documentation/supercollider/tutorials/)
-- [studioTTTguTTT](https://www.youtube.com/watch?v=kktHsF9AA18&list=PLAXkVXyP6y5NLitPZiav-bknzKw_9tJs_)
-- [ Arduino tutorial showing how to use microcontrollers in SuperCollider](https://www.youtube.com/watch?v=AQ5uCPdm0AQ&list=PLAXkVXyP6y5PF2Xy0hMWiKuIdf2Zu6xnG)
+- [SuperCollider Tutorials](https://www.youtube.com/watch?v=yRzsOOiJ_p4&list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC) - Tutorials by Eli Fieldsteel covering a range of subjects
+- [Live Coding Tutorials](https://www.youtube.com/playlist?list=PLlWmK4qVXO37vgyLeNe8ElF15pInARU6x) - Tutorials specifically about live coding
+- [Mastercalss "The Ambisonic Toolkit"](http://www.ambisonictoolkit.net/documentation/supercollider/tutorials/) - A general introduction to ambisonics and the ATK
+- [Ultimate Arduino-To-Supercollider Tutorials- Control Signals for Digital Audio](https://www.youtube.com/playlist?list=PLAXkVXyP6y5PF2Xy0hMWiKuIdf2Zu6xnG) - How to use the Arduino micro computers with SC
 
 ### Research papers
 - [NNdef: Livecoding Digital Musical Instruments in SuperCollider using Functional Reactive Programming](http://www.friendlyvirus.org/files/Miguel-Negrao-NNdef-FARM-2018.pdf)
