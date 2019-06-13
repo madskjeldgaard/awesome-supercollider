@@ -11,7 +11,7 @@ Ensure your pull request adheres to the following guidelines:
 - Make sure you the item isn't already listed
 - Write your items in the format of __[name] – [short description]__
 - If your item doesn't fit under any of the sections or sub sections, feel free to create a more fitting one
-
+- Research if the stuff you're including is actually awesome. Only put stuff on the list that you or another contributor can personally recommend. 
 Thank you for your suggestions!
 
 ## Updating your PR

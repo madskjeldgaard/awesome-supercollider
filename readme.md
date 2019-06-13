@@ -16,7 +16,7 @@
   - [Books](#books)
   - [Research papers](#research-papers)
   - [Others](#others)
-- [Packages](#packages)
+- [Quarks and extensions](#quarks-and-extensions)
   - [Live coding](#live-coding)
   - [Controllers](#controllers)
   - [Network](#network)
@@ -25,6 +25,7 @@
   - [Immersive audio](#immersive-audio)
   - [FX](#fx)
   - [GUI](#gui)
+- [Physical/embedded computing](#physicalembedded-computing)
 - [Clients](#clients)
 - [IDE alternatives](#ide-alternatives)
 - [Forums](#forums)
@@ -46,7 +47,7 @@
 ### Videos
 - [SuperCollider Tutorials](https://www.youtube.com/watch?v=yRzsOOiJ_p4&list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC) - Tutorials by Eli Fieldsteel covering a range of subjects
 - [Live Coding Tutorials](https://www.youtube.com/playlist?list=PLlWmK4qVXO37vgyLeNe8ElF15pInARU6x) - Tutorials specifically about live coding
-- [Mastercalss "The Ambisonic Toolkit"](http://www.ambisonictoolkit.net/documentation/supercollider/tutorials/) - A general introduction to ambisonics and the ATK
+- [Masterclass "The Ambisonic Toolkit"](http://www.ambisonictoolkit.net/documentation/supercollider/tutorials/) - A general introduction to ambisonics and the ATK
 - [Ultimate Arduino-To-Supercollider Tutorials- Control Signals for Digital Audio](https://www.youtube.com/playlist?list=PLAXkVXyP6y5PF2Xy0hMWiKuIdf2Zu6xnG) - How to use the Arduino micro computers with SC
 
 ### Books
@@ -59,13 +60,15 @@
 ### Others
 - [scinterviews.com](http://scinterviews.com/) - SuperCollider interviews
 
-## Packages
+## Quarks and extensions
 
 ### Live coding
 - [SuperDirt](https://github.com/musikinformatik/SuperDirt) - The sound engine of the TidalCycles pattern language 
+- [JITLibExtensions](https://github.com/supercollider-quarks/JITLibExtensions) - Some extensions to the common JITLib classes
 
 ### Controllers
 - [Modality Toolkit](https://github.com/ModalityTeam/Modality-toolkit) - Powerful and modal controller library
+- [NanoKontrol2](https://github.com/davidgranstrom/NanoKontrol2) - Interface for using Korg NanoKONTROL2 with SuperCollider
 
 ### Network
 - [Utopia](https://github.com/muellmusik/Utopia) - Network Music Apps in SuperCollider
@@ -78,9 +81,17 @@
 
 ### FX
 - [vstplugin](https://git.iem.at/pd/vstplugin/releases) – IEM's VST Plugin integration for SuperCollider (and Pure Data)
+- [Vowel](https://github.com/supercollider-quarks/Vowel) - Convenience Class for Vowel Creation
 
 ### GUI
 - [wsGUI](https://github.com/dyfer/wsGUI.quark) - User interfaces displayed in a web browser, locally and over the network
+- [Automation](https://github.com/neeels/Automation) - Record and playback live GUI activity in supercollider audio synth
+
+## Physical/embedded computing
+- [Prynth](http://prynth.github.io/) - Prynth are programmable sound synthesizers powered by Raspberry Pi
+- [supercolliderStandaloneRPI2](https://github.com/redFrik/supercolliderStandaloneRPI2) - Standalone for Raspberry Pi 2 or 3 with Raspbian Stretch including the full IDE
+- [supercolliderStandaloneRPI1](https://github.com/redFrik/supercolliderStandaloneRPI1) - Standalone for Raspberry Pi 1 or Zero with Raspbian Stretch including the full IDE
+- [Bela](https://blog.bela.io/2017/10/29/bela-and-supercollider-live-coding-sensors/) - Bela is an embedded computing platform for creating responsive interactive applications
 
 ## Clients
 - [SuperColliderJS](https://crucialfelix.github.io/supercolliderjs/) - JavaScript client
