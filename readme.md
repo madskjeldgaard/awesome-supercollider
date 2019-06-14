@@ -27,6 +27,8 @@
   - [GUI](#gui)
 - [Physical/embedded computing](#physicalembedded-computing)
 - [Clients](#clients)
+  - [Language clients](#language-clients)
+  - [Livecode interfaces](#livecode-interfaces)
 - [IDE alternatives](#ide-alternatives)
 - [Forums](#forums)
 - [Contribute](#contribute)
@@ -94,11 +96,17 @@
 - [Bela](https://blog.bela.io/2017/10/29/bela-and-supercollider-live-coding-sensors/) - Bela is an embedded computing platform for creating responsive interactive applications
 
 ## Clients
+### Language clients
 - [SuperColliderJS](https://crucialfelix.github.io/supercolliderjs/) - JavaScript client
 - [hsc3](http://hackage.haskell.org/package/hsc3) - Haskell client 
 - [Lua2SC](https://github.com/sonoro1234/Lua2SC) - Lua client
 - [ScalaCollider](https://github.com/Sciss/ScalaCollider) - Scala client
 - [supriya](https://github.com/josiah-wolf-oberholtzer/supriya) - Python client
+
+### Livecode interfaces
+- [TidalCycles](http://tidalcycles.org/) - Haskell based live coding environment for patterns
+- [FoxDot](https://foxdot.org/) – Python based live coding environment running on top of SuperCollider
+- [Overtone](http://overtone.github.io/) - Collaborative live coding using Clojure
 
 ## IDE alternatives
 - [atom-supercollider](https://github.com/crucialfelix/atom-supercollider) - SuperCollider integration for Atom
