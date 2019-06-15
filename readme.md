@@ -31,6 +31,7 @@
   - [Livecode interfaces](#livecode-interfaces)
 - [IDE alternatives](#ide-alternatives)
 - [Forums](#forums)
+- [Tools](#tools)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -119,6 +120,9 @@
 - [Slack](https://scsynth.slack.com/) - The SuperCollider Slack
 - [Lurk](https://talk.lurk.org/channel/supercollider) – Livecode chat 
 - [Mailing list](https://www.birmingham.ac.uk/facilities/ea-studios/research/supercollider/mailinglist.aspx) - Official mailing list
+
+## Tools
+- [Cookiecutter template for SuperCollider quarks](https://github.com/madskjeldgaard/cookiecutter-quark) - A SuperCollider package (quark) generator using the Cookiecutter cli program. The fastest way to get setup for a quark.
 
 ## Contribute
 
