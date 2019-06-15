@@ -24,6 +24,7 @@
   - [Maths](#maths)
   - [Immersive audio](#immersive-audio)
   - [FX](#fx)
+  - [Synthesis](#synthesis)
   - [GUI](#gui)
 - [Physical/embedded computing](#physicalembedded-computing)
 - [Clients](#clients)
@@ -86,6 +87,10 @@
 - [vstplugin](https://git.iem.at/pd/vstplugin/releases) – IEM's VST Plugin integration for SuperCollider (and Pure Data)
 - [Vowel](https://github.com/supercollider-quarks/Vowel) - Convenience Class for Vowel Creation
 
+### Synthesis
+- [CaosPercLib](https://github.com/josecaos/caosperclib) - a Collection of Percussion Classes for SuperCollider
+- [CaosBox](https://github.com/josecaos/caosbox) - a not-so-common LiveCoding/AlgoRave music GUI secuencer/processor for the CaosPercLib
+
 ### GUI
 - [wsGUI](https://github.com/dyfer/wsGUI.quark) - User interfaces displayed in a web browser, locally and over the network
 - [Automation](https://github.com/neeels/Automation) - Record and playback live GUI activity in supercollider audio synth
@@ -108,6 +113,7 @@
 - [TidalCycles](http://tidalcycles.org/) - Haskell based live coding environment for patterns
 - [FoxDot](https://foxdot.org/) – Python based live coding environment running on top of SuperCollider
 - [Overtone](http://overtone.github.io/) - Collaborative live coding using Clojure
+- [xi](https://github.com/xi-livecode/xi) - A domain-specific language for live coding musical patterns in Ruby 
 
 ## IDE alternatives
 - [atom-supercollider](https://github.com/crucialfelix/atom-supercollider) - SuperCollider integration for Atom
