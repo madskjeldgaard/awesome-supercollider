@@ -42,7 +42,7 @@
 
 ### Written tutorials
 - [A gentle introduction to SuperCollider](https://ccrma.stanford.edu/~ruviaro/texts/A_Gentle_Introduction_To_SuperCollider.pdf) –  Introduction to SC by Stanford's CCRMA
-- [Thor Magnussons e-book](https://thormagnusson.gitbooks.io/scoring/content/) - Cookbook containing synthesis recipes among other things
+- [Thor Magnussons Scoring Sound](https://leanpub.com/ScoringSound) - Cookbook containing synthesis recipes among other things
 - [howto_co34pt_liveCode](https://theseanco.github.io/howto_co34pt_liveCode/) - Livecoding tutorial
 - [Nick Collins' SuperCollider tutorial](http://composerprogrammer.com/teaching/supercollider/sctutorial/tutorial.html) - Course material for a 12 week course on SuperCollider 
 - [udk00-Audiovisual_Programming](http://redfrik.github.io/udk00-Audiovisual_Programming/) - Fredrik Olofsson's course materials for UdK Berlin
@@ -69,6 +69,7 @@
 ### Live coding
 - [SuperDirt](https://github.com/musikinformatik/SuperDirt) - The sound engine of the TidalCycles pattern language 
 - [JITLibExtensions](https://github.com/supercollider-quarks/JITLibExtensions) - Some extensions to the common JITLib classes
+- [ixiLangQt](https://github.com/thormagnusson/ixilangQt) - The ixi lang live coding environment is a simple visual system presenting a high entry-level control over synth definitions and samples in SuperCollider
 
 ### Controllers
 - [Modality Toolkit](https://github.com/ModalityTeam/Modality-toolkit) - Powerful and modal controller library
