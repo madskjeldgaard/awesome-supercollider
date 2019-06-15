@@ -128,6 +128,8 @@
 - [Slack](https://scsynth.slack.com/) - The SuperCollider Slack
 - [Lurk](https://talk.lurk.org/channel/supercollider) – Livecode chat 
 - [Mailing list](https://www.birmingham.ac.uk/facilities/ea-studios/research/supercollider/mailinglist.aspx) - Official mailing list
+- [Telegram](https://t.me/supercollider_en) - Telegram SuperGroup
+- [Telegram ES](https://t.me/supercollider_es) - Telegram SuperGroup in Spanish
 
 ## Tools
 - [Cookiecutter template for SuperCollider quarks](https://github.com/madskjeldgaard/cookiecutter-quark) - A SuperCollider package (quark) generator using the Cookiecutter cli program. The fastest way to get setup for a quark.
