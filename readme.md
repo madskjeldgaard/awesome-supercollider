@@ -26,6 +26,7 @@
   - [FX](#fx)
   - [Synthesis](#synthesis)
   - [GUI](#gui)
+- [Instruments](#instruments)
 - [Physical/embedded computing](#physicalembedded-computing)
 - [Clients](#clients)
   - [Language clients](#language-clients)
@@ -97,6 +98,9 @@
 - [wsGUI](https://github.com/dyfer/wsGUI.quark) - User interfaces displayed in a web browser, locally and over the network
 - [Automation](https://github.com/neeels/Automation) - Record and playback live GUI activity in supercollider audio synth
 
+## Instruments
+- [DX7-SuperCollider](https://github.com/everythingwillbetakenaway/DX7-Supercollider) - accurate Yamaha DX-7 clone. Programmed in Supercollider
+
 ## Physical/embedded computing
 - [Prynth](http://prynth.github.io/) - Prynth are programmable sound synthesizers powered by Raspberry Pi
 - [supercolliderStandaloneRPI2](https://github.com/redFrik/supercolliderStandaloneRPI2) - Standalone for Raspberry Pi 2 or 3 with Raspbian Stretch including the full IDE
@@ -130,6 +134,7 @@
 - [Mailing list](https://www.birmingham.ac.uk/facilities/ea-studios/research/supercollider/mailinglist.aspx) - Official mailing list
 - [Telegram](https://t.me/supercollider_en) - Telegram SuperGroup
 - [Telegram ES](https://t.me/supercollider_es) - Telegram SuperGroup in Spanish
+- [Facebook](https://www.facebook.com/groups/supercollider/) - The SuperCollider facebook group
 
 ## Tools
 - [Cookiecutter template for SuperCollider quarks](https://github.com/madskjeldgaard/cookiecutter-quark) - A SuperCollider package (quark) generator using the Cookiecutter cli program. The fastest way to get setup for a quark.
