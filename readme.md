@@ -42,7 +42,6 @@
 
 ### Written tutorials
 - [A gentle introduction to SuperCollider](https://ccrma.stanford.edu/~ruviaro/texts/A_Gentle_Introduction_To_SuperCollider.pdf) –  Introduction to SC by Stanford's CCRMA
-- [Thor Magnussons Scoring Sound](https://leanpub.com/ScoringSound) - Cookbook containing synthesis recipes among other things
 - [howto_co34pt_liveCode](https://theseanco.github.io/howto_co34pt_liveCode/) - Livecoding tutorial
 - [Nick Collins' SuperCollider tutorial](http://composerprogrammer.com/teaching/supercollider/sctutorial/tutorial.html) - Course material for a 12 week course on SuperCollider 
 - [udk00-Audiovisual_Programming](http://redfrik.github.io/udk00-Audiovisual_Programming/) - Fredrik Olofsson's course materials for UdK Berlin
@@ -57,6 +56,8 @@
 ### Books
 - [Introduction to SuperCollider](https://www.logos-verlag.de/cgi-bin/engbuchmid?isbn=4017&lng=eng&id=) - Written by Andrea Valle, includes pdf. Published 2016.
 - [The SuperCollider Book](https://mitpress.mit.edu/books/supercollider-book) – The essential reference. Edited by Scott Wilson, David Cottle and Nick Collins. Foreword by James McCartney. Published 2011.
+- [Thor Magnussons Scoring Sound](https://leanpub.com/ScoringSound) - Cookbook containing synthesis recipes among other things
+- [Mapping and Visualization with SuperCollider](https://archive.org/details/MappingAndVisualizationWithSuperCollider) - Create interactive and repsonsive audio-visual applications with SuperCollider
 
 ### Research papers
 - [NNdef: Livecoding Digital Musical Instruments in SuperCollider using Functional Reactive Programming](http://www.friendlyvirus.org/files/Miguel-Negrao-NNdef-FARM-2018.pdf)
