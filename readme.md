@@ -27,6 +27,7 @@
   - [FX](#fx)
   - [Synthesis](#synthesis)
   - [GUI](#gui)
+- [Synthdefs](#synthdefs)
 - [Instruments](#instruments)
 - [Physical/embedded computing](#physicalembedded-computing)
 - [Clients](#clients)
@@ -102,12 +103,14 @@
 ### Synthesis
 - [CaosPercLib](https://github.com/josecaos/caosperclib) - a Collection of Percussion Classes for SuperCollider
 - [CaosBox](https://github.com/josecaos/caosbox) - a not-so-common LiveCoding/AlgoRave music GUI secuencer/processor for the CaosPercLib
-- [Synthdefs](https://github.com/everythingwillbetakenaway/Synthdefs) - Synthdef Pool
 - [f0plugins](https://github.com/redFrik/f0plugins) - chip tune UGens
 
 ### GUI
 - [wsGUI](https://github.com/dyfer/wsGUI.quark) - User interfaces displayed in a web browser, locally and over the network
 - [Automation](https://github.com/neeels/Automation) - Record and playback live GUI activity in supercollider audio synth
+
+## Synthdefs
+- [Synthdefs](https://github.com/everythingwillbetakenaway/Synthdefs) - Synthdef Pool
 
 ## Instruments
 - [DX7-SuperCollider](https://github.com/everythingwillbetakenaway/DX7-Supercollider) - accurate Yamaha DX-7 clone. Programmed in Supercollider
