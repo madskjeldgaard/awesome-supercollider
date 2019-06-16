@@ -47,6 +47,7 @@
 - [Nick Collins' SuperCollider tutorial](http://composerprogrammer.com/teaching/supercollider/sctutorial/tutorial.html) - Course material for a 12 week course on SuperCollider 
 - [udk00-Audiovisual_Programming](http://redfrik.github.io/udk00-Audiovisual_Programming/) - Fredrik Olofsson's course materials for UdK Berlin
 - [Pseudoclasses with events](https://web.archive.org/web/20141008053015/http://www.tmroyal.com/supercollider-pseudoclasses-with-events.html) - Faking object-oriented programming in SuperCollider with Events
+- [SuperCollider_Tutorials](https://github.com/brunoruviaro/SuperCollider_Tutorials) - SC tutorials
 
 ### Videos
 - [SuperCollider Tutorials](https://www.youtube.com/watch?v=yRzsOOiJ_p4&list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC) - Tutorials by Eli Fieldsteel covering a range of subjects
@@ -73,10 +74,13 @@
 - [SuperDirt](https://github.com/musikinformatik/SuperDirt) - The sound engine of the TidalCycles pattern language 
 - [JITLibExtensions](https://github.com/supercollider-quarks/JITLibExtensions) - Some extensions to the common JITLib classes
 - [ixiLangQt](https://github.com/thormagnusson/ixilangQt) - The ixi lang live coding environment is a simple visual system presenting a high entry-level control over synth definitions and samples in SuperCollider
+- [xoxo](https://github.com/lvm/xoxo) - Embedded language for SuperCollider
+- [INSTRUMENT](https://github.com/punksnotdev/INSTRUMENT) - This tool is aimed at the creation of musical compositions from scratch, 'on the fly'. INSTRUMENT focuses on musical language: rhythm, harmony, melody, audio processing
 
 ### Controllers
 - [Modality Toolkit](https://github.com/ModalityTeam/Modality-toolkit) - Powerful and modal controller library
-- [NanoKontrol2](https://github.com/davidgranstrom/NanoKontrol2) - Interface for using Korg NanoKONTROL2 with SuperCollider
+- [NanoKontrol2](https://github.com/davidgranstrom/NanoKontrol2) - Interface for using Korg NanoKontrol2
+- [NanoKontrol](https://github.com/jesusgollonet/NanoKontrol.sc) - Simple use of the Korg NanoKontrol2
 
 ### Network
 - [Utopia](https://github.com/muellmusik/Utopia) - Network Music Apps in SuperCollider
@@ -94,6 +98,7 @@
 ### Synthesis
 - [CaosPercLib](https://github.com/josecaos/caosperclib) - a Collection of Percussion Classes for SuperCollider
 - [CaosBox](https://github.com/josecaos/caosbox) - a not-so-common LiveCoding/AlgoRave music GUI secuencer/processor for the CaosPercLib
+- [Synthdefs](https://github.com/everythingwillbetakenaway/Synthdefs) - Synthdef Pool
 
 ### GUI
 - [wsGUI](https://github.com/dyfer/wsGUI.quark) - User interfaces displayed in a web browser, locally and over the network
@@ -101,6 +106,8 @@
 
 ## Instruments
 - [DX7-SuperCollider](https://github.com/everythingwillbetakenaway/DX7-Supercollider) - accurate Yamaha DX-7 clone. Programmed in Supercollider
+- [LNX Studio](http://lnxstudio.sourceforge.net/) - a Digital Audio Work Station. [Repository](https://github.com/neilcosgrove/LNX_Studio)
+- [granular-synth](https://github.com/cagnolone/granular-synth) - A simple granular synth GUI, with a handy time/frequency graph
 
 ## Physical/embedded computing
 - [Prynth](http://prynth.github.io/) - Prynth are programmable sound synthesizers powered by Raspberry Pi
@@ -138,7 +145,8 @@
 - [Facebook](https://www.facebook.com/groups/supercollider/) - The SuperCollider facebook group
 
 ## Tools
-- [Cookiecutter template for SuperCollider quarks](https://github.com/madskjeldgaard/cookiecutter-quark) - A SuperCollider package (quark) generator using the Cookiecutter cli program. The fastest way to get setup for a quark.
+- [Cookiecutter template for SuperCollider quarks](https://github.com/madskjeldgaard/cookiecutter-quark) - A SuperCollider package (quark) generator using the Cookiecutter cli program. The fastest way to get setup for a quark
+- [superfomus](https://github.com/smoge/superfomus) - bindings to Fomus Music Notation (FOrmat MUSic)
 
 ## Contribute
 
