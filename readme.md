@@ -16,10 +16,11 @@
   - [Books](#books)
   - [Research papers](#research-papers)
   - [Others](#others)
-- [Quarks and extensions](#quarks-and-extensions)
+- [Quarks, plugins and extensions](#quarks-plugins-and-extensions)
   - [Live coding](#live-coding)
   - [Controllers](#controllers)
   - [Network](#network)
+  - [Physics](#physics)
   - [Patterns](#patterns)
   - [Maths](#maths)
   - [Immersive audio](#immersive-audio)
@@ -68,7 +69,7 @@
 ### Others
 - [scinterviews.com](http://scinterviews.com/) - SuperCollider interviews
 
-## Quarks and extensions
+## Quarks, plugins and extensions
 
 ### Live coding
 - [SuperDirt](https://github.com/musikinformatik/SuperDirt) - The sound engine of the TidalCycles pattern language 
@@ -86,6 +87,9 @@
 - [Utopia](https://github.com/muellmusik/Utopia) - Network Music Apps in SuperCollider
 - [BenoitLib](https://github.com/cappelnord/BenoitLib) - Collaborative and synchronized performances
 
+### Physics
+- [TraerPhysics](https://github.com/redFrik/TraerPhysics) - A simple particle system physics engine
+
 ### Patterns
 ### Maths
 ### Immersive audio
@@ -99,6 +103,7 @@
 - [CaosPercLib](https://github.com/josecaos/caosperclib) - a Collection of Percussion Classes for SuperCollider
 - [CaosBox](https://github.com/josecaos/caosbox) - a not-so-common LiveCoding/AlgoRave music GUI secuencer/processor for the CaosPercLib
 - [Synthdefs](https://github.com/everythingwillbetakenaway/Synthdefs) - Synthdef Pool
+- [f0plugins](https://github.com/redFrik/f0plugins) - chip tune UGens
 
 ### GUI
 - [wsGUI](https://github.com/dyfer/wsGUI.quark) - User interfaces displayed in a web browser, locally and over the network
@@ -114,6 +119,9 @@
 - [supercolliderStandaloneRPI2](https://github.com/redFrik/supercolliderStandaloneRPI2) - Standalone for Raspberry Pi 2 or 3 with Raspbian Stretch including the full IDE
 - [supercolliderStandaloneRPI1](https://github.com/redFrik/supercolliderStandaloneRPI1) - Standalone for Raspberry Pi 1 or Zero with Raspbian Stretch including the full IDE
 - [Bela](https://blog.bela.io/2017/10/29/bela-and-supercollider-live-coding-sensors/) - Bela is an embedded computing platform for creating responsive interactive applications
+- [OpenBCI-SuperCollider](https://github.com/krisztian-hofstadter-tedor/OpenBCI-SuperCollider) - SuperCollider classes for communicating with Open Brain Computer Interface
+- [IBVA-BlueVAS-SuperCollider](https://github.com/krisztian-hofstadter-tedor/IBVA-BlueVAS-SuperCollider) - 
+A SuperCollider class for communicating with the IBVA EEG brain wave measurement headset
 
 ## Clients
 ### Language clients
