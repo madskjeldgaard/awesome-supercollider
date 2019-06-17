@@ -150,6 +150,7 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 
 ## Forums
 - [scsynth.org](http://scsynth.org/) - Official SuperCollider forum
+- [sccode.org](http://sccode.org/) - A website containing SuperCollider code. Many years worth of good ideas in here.
 - [Slack](https://scsynth.slack.com/) - The SuperCollider Slack
 - [Lurk](https://talk.lurk.org/channel/supercollider) – Livecode chat 
 - [Mailing list](https://www.birmingham.ac.uk/facilities/ea-studios/research/supercollider/mailinglist.aspx) - Official mailing list
