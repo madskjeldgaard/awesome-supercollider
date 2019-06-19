@@ -18,6 +18,7 @@
   - [Others](#others)
 - [Quarks, plugins and extensions](#quarks-plugins-and-extensions)
   - [Live coding](#live-coding)
+  - [Live Performance](#live-performance)
   - [Controllers](#controllers)
   - [Network](#network)
   - [Physics](#physics)
