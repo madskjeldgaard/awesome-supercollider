@@ -81,6 +81,10 @@
 - [xoxo](https://github.com/lvm/xoxo) - Embedded language for SuperCollider
 - [INSTRUMENT](https://github.com/punksnotdev/INSTRUMENT) - This tool is aimed at the creation of musical compositions from scratch, 'on the fly'. INSTRUMENT focuses on musical language: rhythm, harmony, melody, audio processing
 
+### Live Performance
+
+- [CuePlayer](https://github.com/dathinaios/CuePlayer) - A tool for composing and performing real-time and mixed electronic works using SuperCollider.
+
 ### Controllers
 - [Modality Toolkit](https://github.com/ModalityTeam/Modality-toolkit) - Powerful and modal controller library
 - [NanoKontrol2](https://github.com/davidgranstrom/NanoKontrol2) - Interface for using Korg NanoKontrol2
