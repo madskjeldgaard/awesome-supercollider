@@ -98,6 +98,9 @@
 ### Physics
 - [TraerPhysics](https://github.com/redFrik/TraerPhysics) - A simple particle system physics engine
 
+### Buffer management
+- [PolyBuf](https://github.com/madskjeldgaard/PolyBuf) - Easily load and access a bunch of audio files into collections of buffers in SuperCollider
+
 ### Patterns
 ### Maths
 ### Immersive audio
@@ -111,6 +114,7 @@
 - [CaosPercLib](https://github.com/josecaos/caosperclib) - a Collection of Percussion Classes for SuperCollider
 - [CaosBox](https://github.com/josecaos/caosbox) - a not-so-common LiveCoding/AlgoRave music GUI secuencer/processor for the CaosPercLib
 - [f0plugins](https://github.com/redFrik/f0plugins) - chip tune UGens
+- [Particular](https://github.com/madskjeldgaard/Particular) - particle synthesis on a per particle basis (to be used with patterns)
 
 ### GUI
 - [wsGUI](https://github.com/dyfer/wsGUI.quark) - User interfaces displayed in a web browser, locally and over the network
