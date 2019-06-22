@@ -22,12 +22,14 @@
   - [Controllers](#controllers)
   - [Network](#network)
   - [Physics](#physics)
+  - [Buffer management](#buffer-management)
   - [Patterns](#patterns)
   - [Maths](#maths)
   - [Immersive audio](#immersive-audio)
   - [FX](#fx)
   - [Synthesis](#synthesis)
   - [GUI](#gui)
+  - [Misc](#misc)
 - [Synthdefs](#synthdefs)
 - [Instruments](#instruments)
 - [Physical/embedded computing](#physicalembedded-computing)
@@ -119,6 +121,10 @@
 ### GUI
 - [wsGUI](https://github.com/dyfer/wsGUI.quark) - User interfaces displayed in a web browser, locally and over the network
 - [Automation](https://github.com/neeels/Automation) - Record and playback live GUI activity in supercollider audio synth
+
+
+### Misc
+- [miSCellaneous_lib](https://github.com/dkmayer/miSCellaneous_lib) - various SuperCollider extensions and tutorials: patterns, fx sequencing, granulation, wave folding, sieves, combined lang and server gui control, live coding, single sample feedback, generalized functional iteration synthesis
 
 ## Synthdefs
 - [Synthdefs](https://github.com/everythingwillbetakenaway/Synthdefs) - Synthdef Pool
