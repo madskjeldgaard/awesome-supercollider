@@ -130,9 +130,17 @@
 - [Synthdefs](https://github.com/everythingwillbetakenaway/Synthdefs) - Synthdef Pool
 
 ## Instruments
+
+### Emulations / clones
 - [DX7-SuperCollider](https://github.com/everythingwillbetakenaway/DX7-Supercollider) - accurate Yamaha DX-7 clone. Programmed in Supercollider
-- [LNX Studio](http://lnxstudio.sourceforge.net/) - a Digital Audio Work Station. [Repository](https://github.com/neilcosgrove/LNX_Studio)
+- [Benjolis](https://scsynth.org/t/benjolin-inspired-instrument/1074/2) - Instrument inspired by Rob Hordijk's chaotic Benjolin synth
+
+### Granular
 - [granular-synth](https://github.com/cagnolone/granular-synth) - A simple granular synth GUI, with a handy time/frequency graph
+- [granular from Discrete Structures course](https://raw.githubusercontent.com/redFrik/udk18-Discrete_Structures/master/udk171214/granulator.scd) - loads a folder of files into buffers and granulates everything.
+
+### Other
+- [LNX Studio](http://lnxstudio.sourceforge.net/) - a Digital Audio Work Station. [Repository](https://github.com/neilcosgrove/LNX_Studio)
 
 ## Physical/embedded computing
 - [Prynth](http://prynth.github.io/) - Prynth are programmable sound synthesizers powered by Raspberry Pi
@@ -164,7 +172,7 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 - [scel](https://github.com/supercollider/scel) - Emacs interface
 - [vscode_supercollider](https://github.com/salkin-mada/vscode_supercollider) - Supercollider syntax for Visual Studio Code
 
-## Forums
+## Community
 - [scsynth.org](http://scsynth.org/) - Official SuperCollider forum
 - [sccode.org](http://sccode.org/) - A website containing SuperCollider code. Many years worth of good ideas in here.
 - [Slack](https://scsynth.slack.com/) - The SuperCollider Slack
