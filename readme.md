@@ -52,7 +52,7 @@
 ### Written tutorials
 - [A gentle introduction to SuperCollider](https://ccrma.stanford.edu/~ruviaro/texts/A_Gentle_Introduction_To_SuperCollider.pdf) –  Introduction to SC by Stanford's CCRMA
 - [howto_co34pt_liveCode](https://theseanco.github.io/howto_co34pt_liveCode/) - Livecoding tutorial
-- [Nick Collins' SuperCollider tutorial](http://composerprogrammer.com/teaching/supercollider/sctutorial/tutorial.html) - Course material for a 12 week course on SuperCollider 
+- [Nick Collins' SuperCollider tutorial](http://composerprogrammer.com/teaching/supercollider/sctutorial/tutorial.html) - Course material for a 12 week course on SuperCollider
 - [udk00-Audiovisual_Programming](http://redfrik.github.io/udk00-Audiovisual_Programming/) - Fredrik Olofsson's course materials for UdK Berlin
 - [Pseudoclasses with events](https://web.archive.org/web/20141008053015/http://www.tmroyal.com/supercollider-pseudoclasses-with-events.html) - Faking object-oriented programming in SuperCollider with Events
 - [SuperCollider_Tutorials](https://github.com/brunoruviaro/SuperCollider_Tutorials) - SC tutorials
@@ -81,7 +81,7 @@
 ## Quarks, plugins and extensions
 
 ### Live coding
-- [SuperDirt](https://github.com/musikinformatik/SuperDirt) - The sound engine of the TidalCycles pattern language 
+- [SuperDirt](https://github.com/musikinformatik/SuperDirt) - The sound engine of the TidalCycles pattern language
 - [JITLibExtensions](https://github.com/supercollider-quarks/JITLibExtensions) - Some extensions to the common JITLib classes
 - [ixiLangQt](https://github.com/thormagnusson/ixilangQt) - The ixi lang live coding environment is a simple visual system presenting a high entry-level control over synth definitions and samples in SuperCollider
 - [xoxo](https://github.com/lvm/xoxo) - Embedded language for SuperCollider
@@ -131,6 +131,8 @@
 
 ## Synthdefs
 - [Synthdefs](https://github.com/everythingwillbetakenaway/Synthdefs) - Synthdef Pool
+- [SynthDefPool](https://github.com/supercollider-quarks/SynthDefPool) — a public library of handy SynthDefs
+- [SCLOrkSynths](https://github.com/brunoruviaro/SynthDefs-for-Patterns) — Collection of SuperCollider SynthDefs (synth definitions) for use with Patterns
 
 ## Instruments
 
@@ -151,13 +153,13 @@
 - [supercolliderStandaloneRPI1](https://github.com/redFrik/supercolliderStandaloneRPI1) - Standalone for Raspberry Pi 1 or Zero with Raspbian Stretch including the full IDE
 - [Bela](https://blog.bela.io/2017/10/29/bela-and-supercollider-live-coding-sensors/) - Bela is an embedded computing platform for creating responsive interactive applications
 - [OpenBCI-SuperCollider](https://github.com/krisztian-hofstadter-tedor/OpenBCI-SuperCollider) - SuperCollider classes for communicating with Open Brain Computer Interface
-- [IBVA-BlueVAS-SuperCollider](https://github.com/krisztian-hofstadter-tedor/IBVA-BlueVAS-SuperCollider) - 
+- [IBVA-BlueVAS-SuperCollider](https://github.com/krisztian-hofstadter-tedor/IBVA-BlueVAS-SuperCollider) -
 A SuperCollider class for communicating with the IBVA EEG brain wave measurement headset
 
 ## Clients
 ### Language clients
 - [SuperColliderJS](https://crucialfelix.github.io/supercolliderjs/) - JavaScript client
-- [hsc3](http://hackage.haskell.org/package/hsc3) - Haskell client 
+- [hsc3](http://hackage.haskell.org/package/hsc3) - Haskell client
 - [Lua2SC](https://github.com/sonoro1234/Lua2SC) - Lua client
 - [ScalaCollider](https://github.com/Sciss/ScalaCollider) - Scala client
 - [supriya](https://github.com/josiah-wolf-oberholtzer/supriya) - Python client
@@ -166,7 +168,7 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 - [TidalCycles](http://tidalcycles.org/) - Haskell based live coding environment for patterns
 - [FoxDot](https://foxdot.org/) – Python based live coding environment running on top of SuperCollider
 - [Overtone](http://overtone.github.io/) - Collaborative live coding using Clojure
-- [xi](https://github.com/xi-livecode/xi) - A domain-specific language for live coding musical patterns in Ruby 
+- [xi](https://github.com/xi-livecode/xi) - A domain-specific language for live coding musical patterns in Ruby
 
 ## IDE alternatives
 - [atom-supercollider](https://github.com/crucialfelix/atom-supercollider) - SuperCollider integration for Atom
@@ -179,7 +181,7 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 - [scsynth.org](http://scsynth.org/) - Official SuperCollider forum
 - [sccode.org](http://sccode.org/) - A website containing SuperCollider code. Many years worth of good ideas in here.
 - [Slack](https://scsynth.slack.com/) - The SuperCollider Slack
-- [Lurk](https://talk.lurk.org/channel/supercollider) – Livecode chat 
+- [Lurk](https://talk.lurk.org/channel/supercollider) – Livecode chat
 - [Mailing list](https://www.birmingham.ac.uk/facilities/ea-studios/research/supercollider/mailinglist.aspx) - Official mailing list
 - [Telegram](https://t.me/supercollider_en) - Telegram SuperGroup
 - [Telegram ES](https://t.me/supercollider_es) - Telegram SuperGroup in Spanish
@@ -192,7 +194,7 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 
 ## Contribute
 
-All contributions welcome! 
+All contributions welcome!
 
 Read the [contribution guidelines](contributing.md) first.
 
