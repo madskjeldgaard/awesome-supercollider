@@ -165,6 +165,7 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 - [Lua2SC](https://github.com/sonoro1234/Lua2SC) - Lua client
 - [ScalaCollider](https://github.com/Sciss/ScalaCollider) - Scala client
 - [supriya](https://github.com/josiah-wolf-oberholtzer/supriya) - Python client
+- [cl-collider](https://github.com/byulparan/cl-collider) - CommonLisp client
 
 ### Livecode interfaces
 - [TidalCycles](http://tidalcycles.org/) - Haskell based live coding environment for patterns
