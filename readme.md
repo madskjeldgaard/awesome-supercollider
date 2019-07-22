@@ -99,6 +99,8 @@
 ### Network
 - [Utopia](https://github.com/muellmusik/Utopia) - Network Music Apps in SuperCollider
 - [BenoitLib](https://github.com/cappelnord/BenoitLib) - Collaborative and synchronized performances
+- [OpenObject](https://github.com/supercollider-quarks/OpenObject) - Share object contents over the network via osc. 
+
 
 ### Physics
 - [TraerPhysics](https://github.com/redFrik/TraerPhysics) - A simple particle system physics engine
