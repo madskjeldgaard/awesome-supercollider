@@ -67,6 +67,7 @@
 - [Ultimate Arduino-To-Supercollider Tutorials- Control Signals for Digital Audio](https://www.youtube.com/playlist?list=PLAXkVXyP6y5PF2Xy0hMWiKuIdf2Zu6xnG) - How to use the Arduino micro computers with SC
 - [Unity 5 and SuperCollider(Custom Sound Engine)](https://www.youtube.com/playlist?list=PLKrJig-8xIiKIznvk_0WArP2ne036TeZV) - How to setup the Unity game engine to work with SuperCollider
 - [SuperCollider and Time](https://medias.ircam.fr/xb090dd_supercollider-and-time) - James McCartney (author of SuperCollider) giving a talk at IRCAM
+- [SoundEngraver](https://www.youtube.com/channel/UCRxJO2INa3EWX19IfoWqS5Q) - video demos showcasing a variety of things in SC
 
 ### Books
 - [Introduction to SuperCollider](https://www.logos-verlag.de/cgi-bin/engbuchmid?isbn=4017&lng=eng&id=) - Written by Andrea Valle, includes pdf. Published 2016.
@@ -120,6 +121,7 @@
 ### FX
 - [vstplugin](https://git.iem.at/pd/vstplugin/releases) – IEM's VST Plugin integration for SuperCollider (and Pure Data)
 - [Vowel](https://github.com/supercollider-quarks/Vowel) - Convenience Class for Vowel Creation
+- [PitchShiftPA](https://github.com/dyfer/PitchShiftPA) - Phase Aligned pitch shifting
 
 ### Synthesis
 - [CaosPercLib](https://github.com/josecaos/caosperclib) - a Collection of Percussion Classes for SuperCollider
