@@ -165,6 +165,7 @@
 - [OpenBCI-SuperCollider](https://github.com/krisztian-hofstadter-tedor/OpenBCI-SuperCollider) - SuperCollider classes for communicating with Open Brain Computer Interface
 - [IBVA-BlueVAS-SuperCollider](https://github.com/krisztian-hofstadter-tedor/IBVA-BlueVAS-SuperCollider) -
 A SuperCollider class for communicating with the IBVA EEG brain wave measurement headset
+- [Monome norns, SuperCollider and Lua](https://medium.com/@kidsputnik/monome-norns-supercollider-and-lua-part-1-d97646306973) - Nice tutorial on getting started with SuperCollider/LUA on the Norns platform
 
 ## Clients
 ### Language clients
