@@ -112,6 +112,7 @@
 
 ### Buffer management
 - [PolyBuf](https://github.com/madskjeldgaard/PolyBuf) - Easily load and access a bunch of audio files into collections of buffers in SuperCollider
+- [Convenience](https://github.com/salkin-mada/Convenience) - Load entire sample banks or folder structures (folders within folders) of audio files into easily accessible collections of buffers. And more.
 
 ### Patterns
 - [Repetition.sc](https://github.com/lvm/Repetition.sc) - A set of tools to build a Stream of Events using symbols and a sort of language in the language
