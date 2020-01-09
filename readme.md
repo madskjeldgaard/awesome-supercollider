@@ -189,6 +189,7 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 - [scnvim](https://github.com/davidgranstrom/scnvim) - NeoVim plugin
 - [scel](https://github.com/supercollider/scel) - Emacs interface
 - [vscode_supercollider](https://github.com/salkin-mada/vscode_supercollider) - Supercollider syntax for Visual Studio Code
+- [Hadron](https://github.com/htor/hadron-editor) - Simple editor with help browser and post window
 
 ## Community
 - [scsynth.org](http://scsynth.org/) - Official SuperCollider forum
