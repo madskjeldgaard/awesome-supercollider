@@ -17,6 +17,7 @@
   - [Research papers](#research-papers)
   - [Others](#others)
 - [Quarks, plugins and extensions](#quarks-plugins-and-extensions)
+  - [Metacontrol, mapping and gestures](#metacontrol-mapping-and-gestures)
   - [Live coding](#live-coding)
   - [Live Performance](#live-performance)
   - [Controllers](#controllers)
@@ -78,12 +79,16 @@
 - [OXford Handbook of Algorithmic Music](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190226992.001.0001/oxfordhb-9780190226992) - Not strictly speaking SuperCollider, but a great resource nevertheless.
 
 ### Research papers
+- [Influx – Loose Control, Gain Influence](https://www.3dmin.org/research/open-development-and-design/influx/) - Super interesting article about Alberto de Campo's Influx system and gesture control/mapping in general
 - [NNdef: Livecoding Digital Musical Instruments in SuperCollider using Functional Reactive Programming](http://www.friendlyvirus.org/files/Miguel-Negrao-NNdef-FARM-2018.pdf)
 
 ### Others
 - [scinterviews.com](http://scinterviews.com/) - SuperCollider interviews
 
 ## Quarks, plugins and extensions
+
+### Metacontrol, mapping and gestures
+- [Influx](https://github.com/supercollider-quarks/Influx) - System for complex mapping of gestures
 
 ### Live coding
 - [SuperDirt](https://github.com/musikinformatik/SuperDirt) - The sound engine of the TidalCycles pattern language
