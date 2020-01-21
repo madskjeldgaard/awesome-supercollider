@@ -207,7 +207,7 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 - [Facebook](https://www.facebook.com/groups/supercollider/) - The SuperCollider facebook group
 
 ## Tools
-- [Build script for Linux](https://github.com/willbasky/build-supercollider) - Easily build SuperCollider with plugins from source on Linux (Ubuntu/Debian)
+- [Build script for Linux](https://github.com/lvm/build-supercollider) - Easily build SuperCollider with plugins from source on Linux (Ubuntu/Debian)
 - [Cookiecutter template for SuperCollider quarks](https://github.com/madskjeldgaard/cookiecutter-quark) - A SuperCollider package (quark) generator using the Cookiecutter cli program. The fastest way to get setup for a quark
 - [Cookiecutter template for SuperCollider plugin](https://github.com/supercollider/cookiecutter-supercollider-plugin) - cookiecutter project for SuperCollider server plugins
 - [superfomus](https://github.com/smoge/superfomus) - bindings to Fomus Music Notation (FOrmat MUSic)
