@@ -61,6 +61,7 @@
 - [A-Practical-Guide](http://doc.sccode.org/Browse.html#Streams-Patterns-Events%3EA-Practical-Guide) - A fantastic pattern tutorial (which can also be found in your help files)
 - [Minibee Tutorial](http://roosnaflak.com/tech-and-research/minibee-tutorials/) - How to work with the Minibee sensors (for dance performances, etc.) in SuperCollider
 - [Mads Kjeldgaard's Tech and research](https://www.madskjeldgaard.dk/tech-and-research) - A blog containing a range of tips, tricks and tutorials
+- [Implementing a SuperCollider UGen in Rust](http://www.andrewchristophersmith.com/2015/01/01/implementing-a-supercollider-external-in-rust/)
 
 ### Videos
 - [SuperCollider Tutorials](https://www.youtube.com/watch?v=yRzsOOiJ_p4&list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC) - Tutorials by Eli Fieldsteel covering a range of subjects
@@ -182,6 +183,7 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 - [ScalaCollider](https://github.com/Sciss/ScalaCollider) - Scala client
 - [supriya](https://github.com/josiah-wolf-oberholtzer/supriya) - Python client
 - [cl-collider](https://github.com/byulparan/cl-collider) - CommonLisp client
+- [sc_client](https://github.com/tonikasoft/sc_client) - Rust client
 
 ### Livecode interfaces
 - [TidalCycles](http://tidalcycles.org/) - Haskell based live coding environment for patterns
