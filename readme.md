@@ -62,6 +62,7 @@
 - [Minibee Tutorial](http://roosnaflak.com/tech-and-research/minibee-tutorials/) - How to work with the Minibee sensors (for dance performances, etc.) in SuperCollider
 - [Mads Kjeldgaard's Tech and research](https://www.madskjeldgaard.dk/tech-and-research) - A blog containing a range of tips, tricks and tutorials
 - [Implementing a SuperCollider UGen in Rust](http://www.andrewchristophersmith.com/2015/01/01/implementing-a-supercollider-external-in-rust/)
+- [SolarPowered SuperCollider on a Raspberry Pi Zero](http://fredrikolofsson.com/f0blog/?q=node/655) - Great little guide for using SC on a solar powered Pi Zero.
 
 ### Videos
 - [SuperCollider Tutorials](https://www.youtube.com/watch?v=yRzsOOiJ_p4&list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC) - Tutorials by Eli Fieldsteel covering a range of subjects
