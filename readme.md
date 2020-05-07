@@ -45,7 +45,9 @@
   - [Livecode interfaces](#livecode-interfaces)
 - [IDE alternatives](#ide-alternatives)
 - [Community](#community)
-- [Tools](#tools)
+- [Build scripts and templates](#build-scripts-and-templates)
+- [Others](#others-2)
+- [Contribute](#contribute)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -222,12 +224,16 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 - [Telegram ES](https://t.me/supercollider_es) - Telegram SuperGroup in Spanish
 - [Facebook](https://www.facebook.com/groups/supercollider/) - The SuperCollider facebook group
 
-## Tools
+## Build scripts and templates
 - [Build script for Linux](https://github.com/lvm/build-supercollider) - Easily build SuperCollider with plugins from source on Linux (Ubuntu/Debian)
 - [Cookiecutter template for SuperCollider quarks](https://github.com/madskjeldgaard/cookiecutter-quark) - A SuperCollider package (quark) generator using the Cookiecutter cli program. The fastest way to get setup for a quark
 - [Cookiecutter template for SuperCollider plugin](https://github.com/supercollider/cookiecutter-supercollider-plugin) - cookiecutter project for SuperCollider server plugins
+
+
+## Others
 - [superfomus](https://github.com/smoge/superfomus) - bindings to Fomus Music Notation (FOrmat MUSic)
 - [SuperColliderAU](https://github.com/supercollider/SuperColliderAU) - SuperColliderAU is an AudioUnit wrapper that allows using SuperCollider servers inside AudioUnits hosts on macOS. The embedded server may be controlled over OSC as usual
+
 ## Contribute
 
 All contributions welcome!
