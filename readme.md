@@ -36,14 +36,16 @@
   - [Emulations / clones](#emulations--clones)
   - [Granular](#granular)
   - [Other](#other)
-- [Physical/embedded computing](#physicalembedded-computing)
+- [Single board computers](#single-board-computers)
+  - [Norns](#norns)
+  - [Raspberry Pi](#raspberry-pi)
+  - [Others](#others-1)
 - [Clients](#clients)
   - [Language clients](#language-clients)
   - [Livecode interfaces](#livecode-interfaces)
 - [IDE alternatives](#ide-alternatives)
 - [Community](#community)
 - [Tools](#tools)
-- [Contribute](#contribute)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -60,7 +62,7 @@
 - [learn](https://github.com/supercollider/learn) - Official SuperCollider tutorial
 - [A-Practical-Guide](http://doc.sccode.org/Browse.html#Streams-Patterns-Events%3EA-Practical-Guide) - A fantastic pattern tutorial (which can also be found in your help files)
 - [Minibee Tutorial](http://roosnaflak.com/tech-and-research/minibee-tutorials/) - How to work with the Minibee sensors (for dance performances, etc.) in SuperCollider
-- [Mads Kjeldgaard's Tech and research](https://www.madskjeldgaard.dk/tech-and-research) - A blog containing a range of tips, tricks and tutorials
+- [Mads Kjeldgaard's Tech and research](https://www.madskjeldgaard.dk/posts) - A blog containing a range of tips, tricks and tutorials
 - [Implementing a SuperCollider UGen in Rust](http://www.andrewchristophersmith.com/2015/01/01/implementing-a-supercollider-external-in-rust/)
 - [SolarPowered SuperCollider on a Raspberry Pi Zero](http://fredrikolofsson.com/f0blog/?q=node/655) - Great little guide for using SC on a solar powered Pi Zero.
 
@@ -167,15 +169,24 @@
 ### Other
 - [LNX Studio](http://lnxstudio.sourceforge.net/) - a Digital Audio Work Station. [Repository](https://github.com/neilcosgrove/LNX_Studio)
 
-## Physical/embedded computing
+## Single board computers
+### Norns
+- [Monome norns, SuperCollider and Lua](https://medium.com/@kidsputnik/monome-norns-supercollider-and-lua-part-1-d97646306973) - Nice tutorial on getting started with SuperCollider/LUA on the Norns platform
+
+### Raspberry Pi
+- [Solar powered SuperCollider](http://fredrikolofsson.com/f0blog/?q=node/655) - Running SC on a Solar powered Raspberry Pi Zero
+- [Notes for setting up a Raspberry Pi 4 for audio work](https://madskjeldgaard.dk/posts/raspi4-notes/) - A comprehensive guide for tuning Raspbian and using (latest version of) SuperCollider
+- [Networked audio using Raspberry Pi 4, zita-njbridge and SuperCollider](https://madskjeldgaard.dk/posts/raspi-zita-njbridge/) - Do networked audio on the Pi using SuperCollider
 - [Prynth](http://prynth.github.io/) - Prynth are programmable sound synthesizers powered by Raspberry Pi
 - [supercolliderStandaloneRPI2](https://github.com/redFrik/supercolliderStandaloneRPI2) - Standalone for Raspberry Pi 2 or 3 with Raspbian Stretch including the full IDE
 - [supercolliderStandaloneRPI1](https://github.com/redFrik/supercolliderStandaloneRPI1) - Standalone for Raspberry Pi 1 or Zero with Raspbian Stretch including the full IDE
+
+### Others
 - [Bela](https://blog.bela.io/2017/10/29/bela-and-supercollider-live-coding-sensors/) - Bela is an embedded computing platform for creating responsive interactive applications
 - [OpenBCI-SuperCollider](https://github.com/krisztian-hofstadter-tedor/OpenBCI-SuperCollider) - SuperCollider classes for communicating with Open Brain Computer Interface
 - [IBVA-BlueVAS-SuperCollider](https://github.com/krisztian-hofstadter-tedor/IBVA-BlueVAS-SuperCollider) -
 A SuperCollider class for communicating with the IBVA EEG brain wave measurement headset
-- [Monome norns, SuperCollider and Lua](https://medium.com/@kidsputnik/monome-norns-supercollider-and-lua-part-1-d97646306973) - Nice tutorial on getting started with SuperCollider/LUA on the Norns platform
+
 
 ## Clients
 ### Language clients
