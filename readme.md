@@ -138,6 +138,7 @@
 - [vstplugin](https://git.iem.at/pd/vstplugin/releases) – IEM's VST Plugin integration for SuperCollider (and Pure Data)
 - [Vowel](https://github.com/supercollider-quarks/Vowel) - Convenience Class for Vowel Creation
 - [PitchShiftPA](https://github.com/dyfer/PitchShiftPA) - Phase Aligned pitch shifting
+- [DWGReverb](https://github.com/sonoro1234/DWGReverb) - A virtual room generator: It has a FDN reverb for the late response but also early reflections generator based on room dimensions 
 
 ### Synthesis
 - [CaosPercLib](https://github.com/josecaos/caosperclib) - a Collection of Percussion Classes for SuperCollider
@@ -170,6 +171,7 @@
 
 ### Other
 - [LNX Studio](http://lnxstudio.sourceforge.net/) - a Digital Audio Work Station. [Repository](https://github.com/neilcosgrove/LNX_Studio)
+- [TXmodular](http://www.palemoonrising.co.uk/) - TXmodular is a production environment fully written in SC
 
 ## Single board computers
 ### Norns
