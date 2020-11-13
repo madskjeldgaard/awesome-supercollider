@@ -10,45 +10,48 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Learning resources](#learning-resources)
-  - [Written tutorials](#written-tutorials)
-  - [Videos](#videos)
-  - [Books](#books)
-  - [Research papers](#research-papers)
-  - [Others](#others)
-- [Quarks, plugins and extensions](#quarks-plugins-and-extensions)
-  - [Metacontrol, mapping and gestures](#metacontrol-mapping-and-gestures)
-  - [Live coding](#live-coding)
-  - [Live Performance](#live-performance)
-  - [Controllers](#controllers)
-  - [Network](#network)
-  - [Physics](#physics)
-  - [Buffer management](#buffer-management)
-  - [Patterns](#patterns)
-  - [Maths](#maths)
-  - [Immersive audio](#immersive-audio)
-  - [FX](#fx)
-  - [Synthesis](#synthesis)
-  - [GUI](#gui)
-  - [Misc](#misc)
-- [Synthdefs](#synthdefs)
-- [Instruments](#instruments)
-  - [Emulations / clones](#emulations--clones)
-  - [Granular](#granular)
-  - [Other](#other)
-- [Single board computers](#single-board-computers)
-  - [Norns](#norns)
-  - [Raspberry Pi](#raspberry-pi)
-  - [Others](#others-1)
-- [Clients](#clients)
-  - [Language clients](#language-clients)
-  - [Livecode interfaces](#livecode-interfaces)
-- [IDE alternatives](#ide-alternatives)
-- [Community](#community)
-- [Build scripts and templates](#build-scripts-and-templates)
-- [Others](#others-2)
-- [Contribute](#contribute)
-- [License](#license)
+  - [Learning resources](#learning-resources)
+    - [Written tutorials](#written-tutorials)
+    - [Videos](#videos)
+    - [Books](#books)
+    - [Research papers](#research-papers)
+    - [Others](#others)
+  - [Quarks, plugins and extensions](#quarks-plugins-and-extensions)
+    - [Metacontrol, mapping and gestures](#metacontrol-mapping-and-gestures)
+    - [Live coding](#live-coding)
+    - [Live Performance](#live-performance)
+    - [Controllers](#controllers)
+    - [Network](#network)
+    - [Physics](#physics)
+    - [Buffer management](#buffer-management)
+    - [Patterns](#patterns)
+    - [Maths](#maths)
+    - [Immersive audio](#immersive-audio)
+    - [FX](#fx)
+    - [Synthesis](#synthesis)
+    - [GUI](#gui)
+    - [Misc](#misc)
+  - [Synthdefs](#synthdefs)
+  - [Instruments](#instruments)
+    - [Emulations / clones](#emulations--clones)
+    - [Granular](#granular)
+    - [Other](#other)
+  - [Single board computers](#single-board-computers)
+    - [Norns](#norns)
+    - [Raspberry Pi](#raspberry-pi)
+    - [Others](#others-1)
+  - [Clients](#clients)
+    - [Language clients](#language-clients)
+    - [Livecode interfaces](#livecode-interfaces)
+  - [IDE alternatives](#ide-alternatives)
+  - [Community](#community)
+  - [Build scripts and templates](#build-scripts-and-templates)
+- [Development](#development)
+  - [Quarks](#quarks)
+  - [Writing plugins](#writing-plugins)
+  - [Others](#others-2)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -230,7 +233,15 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 
 ## Build scripts and templates
 - [Build script for Linux](https://github.com/lvm/build-supercollider) - Easily build SuperCollider with plugins from source on Linux (Ubuntu/Debian)
+
+# Development
+
+## Quarks
 - [Cookiecutter template for SuperCollider quarks](https://github.com/madskjeldgaard/cookiecutter-quark) - A SuperCollider package (quark) generator using the Cookiecutter cli program. The fastest way to get setup for a quark
+
+## Writing plugins
+- [Example plugins](https://github.com/supercollider/example-plugins) - Simple and understandable examples of cpp plugins for SC
+- [Server Plugins API](http://doc.sccode.org/Reference/ServerPluginAPI.html) - Description of some of the boilerplate you get for writing UGens / plugins
 - [Cookiecutter template for SuperCollider plugin](https://github.com/supercollider/cookiecutter-supercollider-plugin) - cookiecutter project for SuperCollider server plugins
 
 
