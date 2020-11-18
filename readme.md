@@ -243,6 +243,8 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 - [Example plugins](https://github.com/supercollider/example-plugins) - Simple and understandable examples of cpp plugins for SC
 - [Server Plugins API](http://doc.sccode.org/Reference/ServerPluginAPI.html) - Description of some of the boilerplate you get for writing UGens / plugins
 - [Cookiecutter template for SuperCollider plugin](https://github.com/supercollider/cookiecutter-supercollider-plugin) - cookiecutter project for SuperCollider server plugins
+- [Implementing a SuperCollider plugin in Rust](http://www.andrewchristophersmith.com/2015/01/01/implementing-a-supercollider-external-in-rust/)
+- [UGen quality standards](https://github.com/supercollider/supercollider/wiki/UGen-Quality-Standards)
 
 
 ## Others
