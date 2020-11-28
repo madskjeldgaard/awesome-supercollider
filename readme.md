@@ -86,6 +86,7 @@
 ### Books
 - [Introduction to SuperCollider](https://www.logos-verlag.de/cgi-bin/engbuchmid?isbn=4017&lng=eng&id=) - Written by Andrea Valle, includes pdf. Published 2016.
 - [The SuperCollider Book](https://mitpress.mit.edu/books/supercollider-book) – The essential reference. Edited by Scott Wilson, David Cottle and Nick Collins. Foreword by James McCartney. Published 2011.
+- [Example code for The MIT SuperCollider Book](https://github.com/madskjeldgaard/scbookcode)
 - [Thor Magnussons Scoring Sound](https://leanpub.com/ScoringSound) - Cookbook containing synthesis recipes among other things
 - [Mapping and Visualization with SuperCollider](https://archive.org/details/MappingAndVisualizationWithSuperCollider) - Create interactive and repsonsive audio-visual applications with SuperCollider
 - [OXford Handbook of Algorithmic Music](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190226992.001.0001/oxfordhb-9780190226992) - Not strictly speaking SuperCollider, but a great resource nevertheless.
