@@ -205,6 +205,7 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 - [Lua2SC](https://github.com/sonoro1234/Lua2SC) - Lua client
 - [ScalaCollider](https://github.com/Sciss/ScalaCollider) - Scala client
 - [supriya](https://github.com/josiah-wolf-oberholtzer/supriya) - Python client
+- [sc3](https://github.com/smrg-lm/sc3) - Python port of some of sclang's features
 - [cl-collider](https://github.com/byulparan/cl-collider) - CommonLisp client
 - [sc_client](https://github.com/tonikasoft/sc_client) - Rust client
 
