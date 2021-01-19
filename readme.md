@@ -169,6 +169,7 @@
 ### Emulations / clones
 - [DX7-SuperCollider](https://github.com/everythingwillbetakenaway/DX7-Supercollider) - accurate Yamaha DX-7 clone. Programmed in Supercollider
 - [Benjolis](https://scsynth.org/t/benjolin-inspired-instrument/1074/2) - Instrument inspired by Rob Hordijk's chaotic Benjolin synth
+- [B700s](https://github.com/lantertronics/b700ish) - A clone of the Buchla 700
 
 ### Granular
 - [granular-synth](https://github.com/cagnolone/granular-synth) - A simple granular synth GUI, with a handy time/frequency graph
