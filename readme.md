@@ -92,6 +92,7 @@
 - [OXford Handbook of Algorithmic Music](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190226992.001.0001/oxfordhb-9780190226992) - Not strictly speaking SuperCollider, but a great resource nevertheless.
 
 ### Research papers
+- [It's morphin' time](https://ccrma.stanford.edu/~jhsu/421b/421b_jhsu.pdf) - Sound morphing by Jennifer Hsu
 - [Influx – Loose Control, Gain Influence](https://www.3dmin.org/research/open-development-and-design/influx/) - Super interesting article about Alberto de Campo's Influx system and gesture control/mapping in general
 - [NNdef: Livecoding Digital Musical Instruments in SuperCollider using Functional Reactive Programming](http://www.friendlyvirus.org/files/Miguel-Negrao-NNdef-FARM-2018.pdf)
 
