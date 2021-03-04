@@ -98,7 +98,7 @@
 - [NNdef: Livecoding Digital Musical Instruments in SuperCollider using Functional Reactive Programming](http://www.friendlyvirus.org/files/Miguel-Negrao-NNdef-FARM-2018.pdf)
 
 ## Plugins
-- [vstplugin](https://git.iem.at/pd/vstplugin/releases) – IEM's VST Plugin integration for SuperCollider (and Pure Data)
+- [vstplugin](https://git.iem.at/pd/vstplugin) – IEM's VST Plugin integration for SuperCollider (and Pure Data)
 - [f0plugins](https://github.com/redFrik/f0plugins) - chip tune UGens
 - [flucoma](https://www.flucoma.org/) - FluCoMa, an awesome framework for signal decomposition, machine learning and analysis.
 - [steroids-ugens](https://github.com/tai-studio/steroids-ugens) - Standard UGens on steroids
@@ -107,6 +107,7 @@
 - [bytebeat](https://github.com/midouest/bytebeat) - A bytebeat interpreter 
 - [mkplugins](https://github.com/madskjeldgaard/mkplugins) - Mads Kjeldgaard's personal plugins
 - [sc3-plugins](http://supercollider.github.io/sc3-plugins/) - The classic sc3-plugins community repository
+- [mi-ugens](https://github.com/v7b1/mi-UGens) - 1:1 ports of Mutable Instruments algorithms
 
 ## Quarks and extensions
 
