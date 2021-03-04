@@ -106,6 +106,7 @@
 - [xplaybuf](https://github.com/elgiano/XPlayBuf) - A buffer player that can loop and fade, while not suffering from the "float precision issue"
 - [bytebeat](https://github.com/midouest/bytebeat) - A bytebeat interpreter 
 - [mkplugins](https://github.com/madskjeldgaard/mkplugins) - Mads Kjeldgaard's personal plugins
+- [sc3-plugins](http://supercollider.github.io/sc3-plugins/) - The classic sc3-plugins community repository
 
 ## Quarks and extensions
 
