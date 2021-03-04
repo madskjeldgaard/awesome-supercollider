@@ -15,8 +15,8 @@
     - [Videos](#videos)
     - [Books](#books)
     - [Research papers](#research-papers)
-    - [Others](#others)
-  - [Quarks, plugins and extensions](#quarks-plugins-and-extensions)
+  - [Plugins](#plugins)
+  - [Quarks and extensions](#quarks-and-extensions)
     - [Metacontrol, mapping and gestures](#metacontrol-mapping-and-gestures)
     - [Live coding](#live-coding)
     - [Live Performance](#live-performance)
@@ -39,17 +39,18 @@
   - [Single board computers](#single-board-computers)
     - [Norns](#norns)
     - [Raspberry Pi](#raspberry-pi)
-    - [Others](#others-1)
+    - [Others](#others)
   - [Clients](#clients)
     - [Language clients](#language-clients)
     - [Livecode interfaces](#livecode-interfaces)
   - [IDE alternatives](#ide-alternatives)
+  - [Other tools](#other-tools)
   - [Community](#community)
   - [Build scripts and templates](#build-scripts-and-templates)
 - [Development](#development)
   - [Quarks](#quarks)
   - [Writing plugins](#writing-plugins)
-  - [Others](#others-2)
+  - [Others](#others-1)
   - [Contribute](#contribute)
   - [License](#license)
 
@@ -96,10 +97,17 @@
 - [Influx – Loose Control, Gain Influence](https://www.3dmin.org/research/open-development-and-design/influx/) - Super interesting article about Alberto de Campo's Influx system and gesture control/mapping in general
 - [NNdef: Livecoding Digital Musical Instruments in SuperCollider using Functional Reactive Programming](http://www.friendlyvirus.org/files/Miguel-Negrao-NNdef-FARM-2018.pdf)
 
-### Others
-- [scinterviews.com](http://scinterviews.com/) - SuperCollider interviews
+## Plugins
+- [vstplugin](https://git.iem.at/pd/vstplugin/releases) – IEM's VST Plugin integration for SuperCollider (and Pure Data)
+- [f0plugins](https://github.com/redFrik/f0plugins) - chip tune UGens
+- [flucoma](https://www.flucoma.org/) - FluCoMa, an awesome framework for signal decomposition, machine learning and analysis.
+- [steroids-ugens](https://github.com/tai-studio/steroids-ugens) - Standard UGens on steroids
+- [super-bufrd](https://github.com/elgiano/super-bufrd) - UGens for accessing long buffers with subsample accuracy
+- [xplaybuf](https://github.com/elgiano/XPlayBuf) - A buffer player that can loop and fade, while not suffering from the "float precision issue"
+- [bytebeat](https://github.com/midouest/bytebeat) - A bytebeat interpreter 
+- [mkplugins](https://github.com/madskjeldgaard/mkplugins) - Mads Kjeldgaard's personal plugins
 
-## Quarks, plugins and extensions
+## Quarks and extensions
 
 ### Metacontrol, mapping and gestures
 - [Influx](https://github.com/supercollider-quarks/Influx) - System for complex mapping of gestures
@@ -107,7 +115,6 @@
 ### Live coding
 - [SuperDirt](https://github.com/musikinformatik/SuperDirt) - The sound engine of the TidalCycles pattern language
 - [JITLibExtensions](https://github.com/supercollider-quarks/JITLibExtensions) - Some extensions to the common JITLib classes
-- [ixiLangQt](https://github.com/thormagnusson/ixilangQt) - The ixi lang live coding environment is a simple visual system presenting a high entry-level control over synth definitions and samples in SuperCollider
 - [xoxo](https://github.com/lvm/xoxo) - Embedded language for SuperCollider
 - [INSTRUMENT](https://github.com/punksnotdev/INSTRUMENT) - This tool is aimed at the creation of musical compositions from scratch, 'on the fly'. INSTRUMENT focuses on musical language: rhythm, harmony, melody, audio processing
 
@@ -125,7 +132,6 @@
 - [BenoitLib](https://github.com/cappelnord/BenoitLib) - Collaborative and synchronized performances
 - [OpenObject](https://github.com/supercollider-quarks/OpenObject) - Share object contents over the network via osc. 
 
-
 ### Physics
 - [TraerPhysics](https://github.com/redFrik/TraerPhysics) - A simple particle system physics engine
 
@@ -141,7 +147,6 @@
 - [The Ambisonic Toolkit](https://github.com/ambisonictoolkit/atk-sc3) - Toolkit for working with spatial sound in the ambisonic domain
 
 ### FX
-- [vstplugin](https://git.iem.at/pd/vstplugin/releases) – IEM's VST Plugin integration for SuperCollider (and Pure Data)
 - [Vowel](https://github.com/supercollider-quarks/Vowel) - Convenience Class for Vowel Creation
 - [PitchShiftPA](https://github.com/dyfer/PitchShiftPA) - Phase Aligned pitch shifting
 - [DWGReverb](https://github.com/sonoro1234/DWGReverb) - A virtual room generator: It has a FDN reverb for the late response but also early reflections generator based on room dimensions 
@@ -149,7 +154,6 @@
 ### Synthesis
 - [CaosPercLib](https://github.com/josecaos/caosperclib) - a Collection of Percussion Classes for SuperCollider
 - [CaosBox](https://github.com/josecaos/caosbox) - a not-so-common LiveCoding/AlgoRave music GUI secuencer/processor for the CaosPercLib
-- [f0plugins](https://github.com/redFrik/f0plugins) - chip tune UGens
 - [Particular](https://github.com/madskjeldgaard/Particular) - particle synthesis on a per particle basis (to be used with patterns)
 
 ### GUI
@@ -224,6 +228,9 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 - [scel](https://github.com/supercollider/scel) - Emacs interface
 - [vscode_supercollider](https://github.com/salkin-mada/vscode_supercollider) - Supercollider syntax for Visual Studio Code
 - [Hadron](https://github.com/htor/hadron-editor) - Simple editor with help browser and post window
+
+## Other tools
+- [supercollider-tree-sitter](https://github.com/madskjeldgaard/tree-sitter-supercollider) - A tree-sitter grammar for SuperCollider (supported out of the box in [treesitter-nvim](https://github.com/nvim-treesitter/nvim-treesitter) for example). 
 
 ## Community
 - [scsynth.org](http://scsynth.org/) - Official SuperCollider forum
