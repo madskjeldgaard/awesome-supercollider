@@ -202,7 +202,7 @@
 
 ### Others
 - [Bela](https://blog.bela.io/2017/10/29/bela-and-supercollider-live-coding-sensors/) - Bela is an embedded computing platform for creating responsive interactive applications
-- [Salt](https://www.amazon.fr/?tag=admarketpla00-21&ref=pd_sl_a317867039FR2021030700) - Bela powered programmable Eurorack module
+- [Salt](https://blog.bela.io/2018/05/02/salt-a-programmable-eurorack-syntesizer/) - Bela powered programmable Eurorack module
 - [OpenBCI-SuperCollider](https://github.com/krisztian-hofstadter-tedor/OpenBCI-SuperCollider) - SuperCollider classes for communicating with Open Brain Computer Interface
 - [IBVA-BlueVAS-SuperCollider](https://github.com/krisztian-hofstadter-tedor/IBVA-BlueVAS-SuperCollider) -
 A SuperCollider class for communicating with the IBVA EEG brain wave measurement headset
