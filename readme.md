@@ -253,6 +253,7 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 - [Telegram ES](https://t.me/supercollider_es) - Telegram SuperGroup in Spanish
 - [Facebook](https://www.facebook.com/groups/supercollider/) - The SuperCollider facebook group
 - [Discord](https://discord.gg/TbBtCXxp5p) - The SuperCollider Discord Server
+- [Stackoverflow](https://stackoverflow.com/questions/tagged/supercollider) - SuperCollider discussions on StackOverflow
 
 ## Build scripts and templates
 - [Build script for Linux](https://github.com/lvm/build-supercollider) - Easily build SuperCollider with plugins from source on Linux (Ubuntu/Debian)
