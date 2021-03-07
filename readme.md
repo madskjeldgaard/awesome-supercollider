@@ -94,9 +94,14 @@
 
 ### Research papers
 - [Rethinking the Computer Music Language: SuperCollider](https://www.mitpressjournals.org/doi/pdf/10.1162/014892602320991383) - James McCartney, SuperCollider's father, presenting his work on SuperCollider (2002). 
+- [Continued Evolution of the SuperCollider Real Time Synthesis Environment](https://quod.lib.umich.edu/i/icmc/bbp2372.1998.262/--continued-evolution-of-the-supercollider-real-time-synthesis?view=image&seq=1&size=150) - An even older article concerning SuperCollider (1998)
 - [It's morphin' time](https://ccrma.stanford.edu/~jhsu/421b/421b_jhsu.pdf) - Sound morphing by Jennifer Hsu
 - [Influx – Loose Control, Gain Influence](https://www.3dmin.org/research/open-development-and-design/influx/) - Super interesting article about Alberto de Campo's Influx system and gesture control/mapping in general
 - [NNdef: Livecoding Digital Musical Instruments in SuperCollider using Functional Reactive Programming](http://www.friendlyvirus.org/files/Miguel-Negrao-NNdef-FARM-2018.pdf)
+
+### Other documents
+- [SuperCollider Tweets](https://sccode.org/1-4RA) - SuperCollider patches in 140 characters. 
+- [SuperCollider Tweets](https://ccrma.stanford.edu/wiki/SuperCollider_Tweets) - Comments on some of these tweet-sized patches. 
 
 ## Plugins
 - [vstplugin](https://git.iem.at/pd/vstplugin) – IEM's VST Plugin integration for SuperCollider (and Pure Data)
