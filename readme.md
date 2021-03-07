@@ -93,9 +93,15 @@
 - [OXford Handbook of Algorithmic Music](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190226992.001.0001/oxfordhb-9780190226992) - Not strictly speaking SuperCollider, but a great resource nevertheless.
 
 ### Research papers
+- [Rethinking the Computer Music Language: SuperCollider](https://www.mitpressjournals.org/doi/pdf/10.1162/014892602320991383) - James McCartney, SuperCollider's father, presenting his work on SuperCollider (2002). 
+- [Continued Evolution of the SuperCollider Real Time Synthesis Environment](https://quod.lib.umich.edu/i/icmc/bbp2372.1998.262/--continued-evolution-of-the-supercollider-real-time-synthesis?view=image&seq=1&size=150) - An even older article concerning SuperCollider (1998)
 - [It's morphin' time](https://ccrma.stanford.edu/~jhsu/421b/421b_jhsu.pdf) - Sound morphing by Jennifer Hsu
 - [Influx – Loose Control, Gain Influence](https://www.3dmin.org/research/open-development-and-design/influx/) - Super interesting article about Alberto de Campo's Influx system and gesture control/mapping in general
 - [NNdef: Livecoding Digital Musical Instruments in SuperCollider using Functional Reactive Programming](http://www.friendlyvirus.org/files/Miguel-Negrao-NNdef-FARM-2018.pdf)
+
+### Other documents
+- [SuperCollider Tweets](https://sccode.org/1-4RA) - SuperCollider patches in 140 characters. 
+- [SuperCollider Tweets Explained](https://ccrma.stanford.edu/wiki/SuperCollider_Tweets) - Comments on some of these tweet-sized patches. 
 
 ## Plugins
 - [vstplugin](https://git.iem.at/pd/vstplugin) – IEM's VST Plugin integration for SuperCollider (and Pure Data)
@@ -201,10 +207,11 @@
 
 ### Others
 - [Bela](https://blog.bela.io/2017/10/29/bela-and-supercollider-live-coding-sensors/) - Bela is an embedded computing platform for creating responsive interactive applications
+- [Salt](https://blog.bela.io/2018/05/02/salt-a-programmable-eurorack-syntesizer/) - Bela powered programmable Eurorack module
 - [OpenBCI-SuperCollider](https://github.com/krisztian-hofstadter-tedor/OpenBCI-SuperCollider) - SuperCollider classes for communicating with Open Brain Computer Interface
 - [IBVA-BlueVAS-SuperCollider](https://github.com/krisztian-hofstadter-tedor/IBVA-BlueVAS-SuperCollider) -
 A SuperCollider class for communicating with the IBVA EEG brain wave measurement headset
-
+- [VCV Rack Prototype Module](https://vcvrack.com/Prototype) - A digital Eurorack module scriptable using SuperCollider 
 
 ## Clients
 ### Language clients
@@ -221,7 +228,9 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 - [TidalCycles](http://tidalcycles.org/) - Haskell based live coding environment for patterns
 - [FoxDot](https://foxdot.org/) – Python based live coding environment running on top of SuperCollider
 - [Overtone](http://overtone.github.io/) - Collaborative live coding using Clojure
+- [Sonic Pi](https://sonic-pi.net/) - Ruby based live coding environment, using SuperCollider as an audio engine 
 - [xi](https://github.com/xi-livecode/xi) - A domain-specific language for live coding musical patterns in Ruby
+- [Ixi Lang](http://www.ixi-audio.net/ixilang/) - Thor Magnusson's live coding environment based on musical agents
 
 ## IDE alternatives
 - [atom-supercollider](https://github.com/crucialfelix/atom-supercollider) - SuperCollider integration for Atom
@@ -243,6 +252,7 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 - [Telegram](https://t.me/supercollider_en) - Telegram SuperGroup
 - [Telegram ES](https://t.me/supercollider_es) - Telegram SuperGroup in Spanish
 - [Facebook](https://www.facebook.com/groups/supercollider/) - The SuperCollider facebook group
+- [Discord](https://discord.gg/TbBtCXxp5p) - The SuperCollider Discord Server
 
 ## Build scripts and templates
 - [Build script for Linux](https://github.com/lvm/build-supercollider) - Easily build SuperCollider with plugins from source on Linux (Ubuntu/Debian)
