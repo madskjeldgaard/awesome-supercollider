@@ -101,7 +101,7 @@
 
 ### Other documents
 - [SuperCollider Tweets](https://sccode.org/1-4RA) - SuperCollider patches in 140 characters. 
-- [SuperCollider Tweets](https://ccrma.stanford.edu/wiki/SuperCollider_Tweets) - Comments on some of these tweet-sized patches. 
+- [SuperCollider Tweets Explained](https://ccrma.stanford.edu/wiki/SuperCollider_Tweets) - Comments on some of these tweet-sized patches. 
 
 ## Plugins
 - [vstplugin](https://git.iem.at/pd/vstplugin) – IEM's VST Plugin integration for SuperCollider (and Pure Data)
