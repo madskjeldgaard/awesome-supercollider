@@ -223,6 +223,7 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 - [sc3](https://github.com/smrg-lm/sc3) - Python port of some of sclang's features
 - [cl-collider](https://github.com/byulparan/cl-collider) - CommonLisp client
 - [sc_client](https://github.com/tonikasoft/sc_client) - Rust client
+- [sorceress](https://github.com/ooesili/sorceress) - Creative coding in Rust / SuperCollider
 
 ### Livecode interfaces
 - [TidalCycles](http://tidalcycles.org/) - Haskell based live coding environment for patterns
