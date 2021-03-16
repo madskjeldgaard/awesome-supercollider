@@ -60,6 +60,7 @@
 
 ### Written tutorials
 - [A gentle introduction to SuperCollider](https://ccrma.stanford.edu/~ruviaro/texts/A_Gentle_Introduction_To_SuperCollider.pdf) –  Introduction to SC by Stanford's CCRMA
+- [How to write server plugins using C++](https://scsynth.org/t/tutorial-supercollider-server-plugins-in-c/3449) - How to create UGens
 - [howto_co34pt_liveCode](https://theseanco.github.io/howto_co34pt_liveCode/) - Livecoding tutorial
 - [Nick Collins' SuperCollider tutorial](http://composerprogrammer.com/teaching/supercollider/sctutorial/tutorial.html) - Course material for a 12 week course on SuperCollider
 - [udk00-Audiovisual_Programming](http://redfrik.github.io/udk00-Audiovisual_Programming/) - Fredrik Olofsson's course materials for UdK Berlin
