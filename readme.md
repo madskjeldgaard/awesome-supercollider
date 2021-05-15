@@ -135,6 +135,7 @@
 - [Modality Toolkit](https://github.com/ModalityTeam/Modality-toolkit) - Powerful and modal controller library
 - [NanoKontrol2](https://github.com/davidgranstrom/NanoKontrol2) - Interface for using Korg NanoKontrol2
 - [NanoKontrol](https://github.com/jesusgollonet/NanoKontrol.sc) - Simple use of the Korg NanoKontrol2
+- [CC14](github.com/madskjeldgaard/cc14) - 14 bit midi for SuperCollider
 
 ### Network
 - [Utopia](https://github.com/muellmusik/Utopia) - Network Music Apps in SuperCollider
