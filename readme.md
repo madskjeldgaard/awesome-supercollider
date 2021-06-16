@@ -242,6 +242,7 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 - [scel](https://github.com/supercollider/scel) - Emacs interface
 - [vscode_supercollider](https://github.com/salkin-mada/vscode_supercollider) - Supercollider syntax for Visual Studio Code
 - [Hadron](https://github.com/htor/hadron-editor) - Simple editor with help browser and post window
+- [sckernel](https://github.com/andrewdavis33/sckernel) - Jupyter Notebook kernel
 
 ## Other tools
 - [supercollider-tree-sitter](https://github.com/madskjeldgaard/tree-sitter-supercollider) - A tree-sitter grammar for SuperCollider (supported out of the box in [treesitter-nvim](https://github.com/nvim-treesitter/nvim-treesitter) for example). 
