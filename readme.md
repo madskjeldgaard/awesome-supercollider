@@ -130,7 +130,6 @@
 - [INSTRUMENT](https://github.com/punksnotdev/INSTRUMENT) - This tool is aimed at the creation of musical compositions from scratch, 'on the fly'. INSTRUMENT focuses on musical language: rhythm, harmony, melody, audio processing
 
 ### Live Performance
-
 - [CuePlayer](https://github.com/dathinaios/CuePlayer) - A tool for composing and performing real-time and mixed electronic works using SuperCollider.
 
 ### Controllers
@@ -155,6 +154,8 @@
 - [Repetition.sc](https://github.com/lvm/Repetition.sc) - A set of tools to build a Stream of Events using symbols and a sort of language in the language
 
 ### Maths
+ - [Ease](https://github.com/redFrik/Ease) - Easing and tweening classes for scserver and sclang. Ported from the Cinder C++ framework - original equations by Robert Penner
+
 ### Immersive audio
 - [The Ambisonic Toolkit](https://github.com/ambisonictoolkit/atk-sc3) - Toolkit for working with spatial sound in the ambisonic domain
 
@@ -165,9 +166,9 @@
 - [DWGReverb](https://github.com/sonoro1234/DWGReverb) - A virtual room generator: It has a FDN reverb for the late response but also early reflections generator based on room dimensions 
 
 ### Synthesis
-- [CaosPercLib](https://github.com/josecaos/caosperclib) - a Collection of Percussion Classes for SuperCollider
-- [CaosBox](https://github.com/josecaos/caosbox) - a not-so-common LiveCoding/AlgoRave music GUI secuencer/processor for the CaosPercLib
-- [Particular](https://github.com/madskjeldgaard/Particular) - particle synthesis on a per particle basis (to be used with patterns)
+- [CaosPercLib](https://github.com/josecaos/caosperclib) - A Collection of Percussion Classes for SuperCollider
+- [CaosBox](https://github.com/josecaos/caosbox) - A not-so-common LiveCoding/AlgoRave music GUI sequencer/processor for the CaosPercLib
+- [Particular](https://github.com/madskjeldgaard/Particular) - Particle synthesis on a per particle basis (to be used with patterns)
 
 ### GUI
 - [wsGUI](https://github.com/dyfer/wsGUI.quark) - User interfaces displayed in a web browser, locally and over the network
@@ -177,14 +178,14 @@
 ### Misc
 - [miSCellaneous_lib](https://github.com/dkmayer/miSCellaneous_lib) - various SuperCollider extensions and tutorials: patterns, fx sequencing, granulation, wave folding, sieves, combined lang and server gui control, live coding, single sample feedback, generalized functional iteration synthesis
 
-## Synthdefs
+## SynthDefs
 - [Synthdefs](https://github.com/everythingwillbetakenaway/Synthdefs) - Synthdef Pool
 - [SynthDefPool](https://github.com/supercollider-quarks/SynthDefPool) — a public library of handy SynthDefs
 - [SCLOrkSynths](https://github.com/brunoruviaro/SynthDefs-for-Patterns) — Collection of SuperCollider SynthDefs (synth definitions) for use with Patterns
 
 ## Instruments
 
-### Emulations / clones
+### Emulations / Clones
 - [DX7-SuperCollider](https://github.com/everythingwillbetakenaway/DX7-Supercollider) - accurate Yamaha DX-7 clone. Programmed in Supercollider
 - [Benjolis](https://scsynth.org/t/benjolin-inspired-instrument/1074/2) - Instrument inspired by Rob Hordijk's chaotic Benjolin synth
 - [B700s](https://github.com/lantertronics/b700ish) - A clone of the Buchla 700
@@ -255,7 +256,7 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 - [sccode.org](http://sccode.org/) - A website containing SuperCollider code. Many years worth of good ideas in here.
 - [Slack](https://scsynth.slack.com/) - The SuperCollider Slack
 - [Lurk](https://talk.lurk.org/channel/supercollider) – Livecode chat
-- [Mailing list](https://www.birmingham.ac.uk/facilities/ea-studios/research/supercollider/mailinglist.aspx) - Official mailing list
+- [Mailing list](https://www.birmingham.ac.uk/facilities/ea-studios/research/supercollider/mailinglist.aspx) - Former official mailing list. Archives are in the process of being moved to a new location.
 - [Telegram](https://t.me/supercollider_en) - Telegram SuperGroup
 - [Telegram ES](https://t.me/supercollider_es) - Telegram SuperGroup in Spanish
 - [Facebook](https://www.facebook.com/groups/supercollider/) - The SuperCollider facebook group
