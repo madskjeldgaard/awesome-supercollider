@@ -115,6 +115,8 @@
 - [mkplugins](https://github.com/madskjeldgaard/mkplugins) - Mads Kjeldgaard's personal plugins
 - [sc3-plugins](http://supercollider.github.io/sc3-plugins/) - The classic sc3-plugins community repository
 - [mi-ugens](https://github.com/v7b1/mi-UGens) - 1:1 ports of Mutable Instruments algorithms
+- [guttersynth-sc](github.com/madskjeldgaard/guttersynth-sc) - Tom Mudd's Gutter Synth for SuperCollider
+- [faustgen](github.com/madskjeldgaard/faustgen-supercollider/) - embedded faust compiler for SuperCollider
 
 ## Quarks and extensions
 
@@ -157,6 +159,7 @@
 - [The Ambisonic Toolkit](https://github.com/ambisonictoolkit/atk-sc3) - Toolkit for working with spatial sound in the ambisonic domain
 
 ### FX
+- [Bandsplitter.quark](https://github.com/scztt/BandSplitter.quark) - A great set of filters that will split your audio into multiple components
 - [Vowel](https://github.com/supercollider-quarks/Vowel) - Convenience Class for Vowel Creation
 - [PitchShiftPA](https://github.com/dyfer/PitchShiftPA) - Phase Aligned pitch shifting
 - [DWGReverb](https://github.com/sonoro1234/DWGReverb) - A virtual room generator: It has a FDN reverb for the late response but also early reflections generator based on room dimensions 
