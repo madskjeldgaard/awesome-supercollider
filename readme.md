@@ -256,7 +256,7 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 - [sccode.org](http://sccode.org/) - A website containing SuperCollider code. Many years worth of good ideas in here.
 - [Slack](https://scsynth.slack.com/) - The SuperCollider Slack
 - [Lurk](https://talk.lurk.org/channel/supercollider) – Livecode chat
-- [Mailing list](https://www.birmingham.ac.uk/facilities/ea-studios/research/supercollider/mailinglist.aspx) - Official mailing list
+- [Mailing list](https://www.birmingham.ac.uk/facilities/ea-studios/research/supercollider/mailinglist.aspx) - Former official mailing list. Archives are in the process of being moved to a new location.
 - [Telegram](https://t.me/supercollider_en) - Telegram SuperGroup
 - [Telegram ES](https://t.me/supercollider_es) - Telegram SuperGroup in Spanish
 - [Facebook](https://www.facebook.com/groups/supercollider/) - The SuperCollider facebook group
