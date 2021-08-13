@@ -163,6 +163,7 @@
 - [Bandsplitter.quark](https://github.com/scztt/BandSplitter.quark) - A great set of filters that will split your audio into multiple components
 - [Vowel](https://github.com/supercollider-quarks/Vowel) - Convenience Class for Vowel Creation
 - [PitchShiftPA](https://github.com/dyfer/PitchShiftPA) - Phase Aligned pitch shifting
+- [TimeStretch](https://github.com/spluta/TimeStretch) - Nice collection of new takes on the "PaulStretch" timestretcher
 - [DWGReverb](https://github.com/sonoro1234/DWGReverb) - A virtual room generator: It has a FDN reverb for the late response but also early reflections generator based on room dimensions 
 
 ### Synthesis
