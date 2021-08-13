@@ -171,6 +171,7 @@
 - [Particular](https://github.com/madskjeldgaard/Particular) - Particle synthesis on a per particle basis (to be used with patterns)
 
 ### GUI
+- [ServerView.quark](github.com/scztt/serverView.quark/) - Wonderful interface to control the server, see activity and record sound.
 - [wsGUI](https://github.com/dyfer/wsGUI.quark) - User interfaces displayed in a web browser, locally and over the network
 - [Automation](https://github.com/neeels/Automation) - Record and playback live GUI activity in supercollider audio synth
 
