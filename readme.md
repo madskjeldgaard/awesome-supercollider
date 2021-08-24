@@ -72,6 +72,7 @@
 - [Mads Kjeldgaard's Tech and research](https://www.madskjeldgaard.dk/posts) - A blog containing a range of tips, tricks and tutorials
 - [Implementing a SuperCollider UGen in Rust](http://www.andrewchristophersmith.com/2015/01/01/implementing-a-supercollider-external-in-rust/)
 - [SolarPowered SuperCollider on a Raspberry Pi Zero](http://fredrikolofsson.com/f0blog/?q=node/655) - Great little guide for using SC on a solar powered Pi Zero.
+- [Tutorials on making drones and sample-based synths in SuperCollider](https://github.com/schollz/supercollider-tutorials) - Two tutorials that each start from the basics and build towards making a drone or a efficient sampler engine.
 
 ### Videos
 - [SuperCollider Tutorials](https://www.youtube.com/watch?v=yRzsOOiJ_p4&list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC) - Tutorials by Eli Fieldsteel covering a range of subjects
