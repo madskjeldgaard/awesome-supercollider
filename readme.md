@@ -153,6 +153,7 @@
 
 ### Patterns
 - [Repetition.sc](https://github.com/lvm/Repetition.sc) - A set of tools to build a Stream of Events using symbols and a sort of language in the language
+- [SuperClean](https://github.com/danielmkarlsson/SuperClean) - An event prototype environment that allows for sequencing of sample playback, various synths, effects, and a flexible routing system
 
 ### Maths
  - [Ease](https://github.com/redFrik/Ease) - Easing and tweening classes for scserver and sclang. Ported from the Cinder C++ framework - original equations by Robert Penner
@@ -247,9 +248,10 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 - [scvim](https://github.com/supercollider/scvim) - Vim plugin
 - [scnvim](https://github.com/davidgranstrom/scnvim) - NeoVim plugin
 - [scel](https://github.com/supercollider/scel) - Emacs interface
-- [vscode_supercollider](https://github.com/salkin-mada/vscode_supercollider) - Supercollider syntax for Visual Studio Code
+- [vscode_supercollider](https://github.com/salkin-mada/vscode_supercollider) - SuperCollider syntax for Visual Studio Code
 - [Hadron](https://github.com/htor/hadron-editor) - Simple editor with help browser and post window
 - [sckernel](https://github.com/andrewdavis33/sckernel) - Jupyter Notebook kernel
+- [supercollider-sublime](https://github.com/acarabott/supercollider-sublime) - SuperCollider plugin for Sublime Text 3
 
 ## Other tools
 - [supercollider-tree-sitter](https://github.com/madskjeldgaard/tree-sitter-supercollider) - A tree-sitter grammar for SuperCollider (supported out of the box in [treesitter-nvim](https://github.com/nvim-treesitter/nvim-treesitter) for example). 
@@ -258,13 +260,13 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 - [scsynth.org](http://scsynth.org/) - Official SuperCollider forum
 - [sccode.org](http://sccode.org/) - A website containing SuperCollider code. Many years worth of good ideas in here.
 - [Slack](https://scsynth.slack.com/) - The SuperCollider Slack
+- [Discord](https://discord.gg/TbBtCXxp5p) - The SuperCollider Discord Server
 - [Lurk](https://talk.lurk.org/channel/supercollider) – Livecode chat
-- [Mailing list](https://www.birmingham.ac.uk/facilities/ea-studios/research/supercollider/mailinglist.aspx) - Former official mailing list. Archives are in the process of being moved to a new location.
+- [Facebook](https://www.facebook.com/groups/supercollider/) - The SuperCollider facebook group
 - [Telegram](https://t.me/supercollider_en) - Telegram SuperGroup
 - [Telegram ES](https://t.me/supercollider_es) - Telegram SuperGroup in Spanish
-- [Facebook](https://www.facebook.com/groups/supercollider/) - The SuperCollider facebook group
-- [Discord](https://discord.gg/TbBtCXxp5p) - The SuperCollider Discord Server
 - [Stackoverflow](https://stackoverflow.com/questions/tagged/supercollider) - SuperCollider discussions on StackOverflow
+- [Mailing list archive](http://www.listarc.cal.bham.ac.uk/) - Former official mailing list.
 
 ## Build scripts and templates
 - [Build script for Linux](https://github.com/lvm/build-supercollider) - Easily build SuperCollider with plugins from source on Linux (Ubuntu/Debian)
