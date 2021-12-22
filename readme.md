@@ -15,6 +15,7 @@
     - [Videos](#videos)
     - [Books](#books)
     - [Research papers](#research-papers)
+    - [Other documents](#other-documents)
   - [Plugins](#plugins)
   - [Quarks and extensions](#quarks-and-extensions)
     - [Metacontrol, mapping and gestures](#metacontrol-mapping-and-gestures)
@@ -27,13 +28,14 @@
     - [Patterns](#patterns)
     - [Maths](#maths)
     - [Immersive audio](#immersive-audio)
+      - [Ambisonics](#ambisonics)
     - [FX](#fx)
     - [Synthesis](#synthesis)
     - [GUI](#gui)
     - [Misc](#misc)
-  - [Synthdefs](#synthdefs)
-  - [Instruments](#instruments)
-    - [Emulations / clones](#emulations--clones)
+    - [SynthDefs](#synthdefs)
+    - [Daw integrations](#daw-integrations)
+    - [Emulations / Clones](#emulations--clones)
     - [Granular](#granular)
     - [Other](#other)
   - [Single board computers](#single-board-computers)
@@ -43,8 +45,9 @@
   - [Clients](#clients)
     - [Language clients](#language-clients)
     - [Livecode interfaces](#livecode-interfaces)
-  - [IDE alternatives](#ide-alternatives)
-  - [Other tools](#other-tools)
+  - [Editors](#editors)
+    - [(Neo)Vim](#neovim)
+    - [Other tools](#other-tools)
   - [Community](#community)
   - [Build scripts and templates](#build-scripts-and-templates)
 - [Development](#development)
@@ -85,6 +88,8 @@
 - [SuperCollider and Time](https://medias.ircam.fr/xb090dd_supercollider-and-time) - James McCartney (author of SuperCollider) giving a talk at IRCAM
 - [SoundEngraver](https://www.youtube.com/channel/UCRxJO2INa3EWX19IfoWqS5Q) - video demos showcasing a variety of things in SC
 - [Musical Sound Design in Supercollider video series](https://scsynth.org/t/musical-sound-design-in-supercollider-video-series/2080) - Videos on sound design techniques in SC, including pulsar synthesis examples.
+- [MAT Seminar | James McCartney | November 8, 2021](https://vimeo.com/643723477) - James McCartney speaking about SuperCollider and beyond.
+- [Podcast 350: James McCartney](https://www.youtube.com/watch?v=qmayIRViJms) - Really informative talk with James McCartney about SuperCollider among other things.
 
 ### Books
 - [Introduction to SuperCollider](https://www.logos-verlag.de/cgi-bin/engbuchmid?isbn=4017&lng=eng&id=) - Written by Andrea Valle, includes pdf. Published 2016.
@@ -159,7 +164,12 @@
  - [Ease](https://github.com/redFrik/Ease) - Easing and tweening classes for scserver and sclang. Ported from the Cinder C++ framework - original equations by Robert Penner
 
 ### Immersive audio
+
+#### Ambisonics
 - [The Ambisonic Toolkit](https://github.com/ambisonictoolkit/atk-sc3) - Toolkit for working with spatial sound in the ambisonic domain
+- [StereoDecoders](https://github.com/madskjeldgaard/stereodecoders) - Persistent and easy to use stereo decoders for the ATK.
+- [BinauralDecoders](https://github.com/madskjeldgaard/binauraldecoders) - Persistent and easy to use binaural decoders for the ambisonic toolkit.
+- [TeensyHeadTracker.quark](https://github.com/notam02/TeensyHeadTracker.quark) - a convenient interface that makes it easy to use the TeensyHeadTracker, a DIY head tracker for 3D audio production.
 
 ### FX
 - [Bandsplitter.quark](https://github.com/scztt/BandSplitter.quark) - A great set of filters that will split your audio into multiple components
@@ -182,12 +192,15 @@
 ### Misc
 - [miSCellaneous_lib](https://github.com/dkmayer/miSCellaneous_lib) - various SuperCollider extensions and tutorials: patterns, fx sequencing, granulation, wave folding, sieves, combined lang and server gui control, live coding, single sample feedback, generalized functional iteration synthesis
 
-## SynthDefs
+
+### SynthDefs
 - [Synthdefs](https://github.com/everythingwillbetakenaway/Synthdefs) - Synthdef Pool
 - [SynthDefPool](https://github.com/supercollider-quarks/SynthDefPool) — a public library of handy SynthDefs
 - [SCLOrkSynths](https://github.com/brunoruviaro/SynthDefs-for-Patterns) — Collection of SuperCollider SynthDefs (synth definitions) for use with Patterns
 
-## Instruments
+### Daw integrations
+
+- [ReaCollider](https://github.com/madskjeldgaard/ReaCollider) - Generate Reaper projects.
 
 ### Emulations / Clones
 - [DX7-SuperCollider](https://github.com/everythingwillbetakenaway/DX7-Supercollider) - accurate Yamaha DX-7 clone. Programmed in Supercollider
@@ -243,17 +256,24 @@ A SuperCollider class for communicating with the IBVA EEG brain wave measurement
 - [xi](https://github.com/xi-livecode/xi) - A domain-specific language for live coding musical patterns in Ruby
 - [Ixi Lang](http://www.ixi-audio.net/ixilang/) - Thor Magnusson's live coding environment based on musical agents
 
-## IDE alternatives
+## Editors 
 - [atom-supercollider](https://github.com/crucialfelix/atom-supercollider) - SuperCollider integration for Atom
-- [scvim](https://github.com/supercollider/scvim) - Vim plugin
-- [scnvim](https://github.com/davidgranstrom/scnvim) - NeoVim plugin
 - [scel](https://github.com/supercollider/scel) - Emacs interface
 - [vscode_supercollider](https://github.com/salkin-mada/vscode_supercollider) - SuperCollider syntax for Visual Studio Code
 - [Hadron](https://github.com/htor/hadron-editor) - Simple editor with help browser and post window
 - [sckernel](https://github.com/andrewdavis33/sckernel) - Jupyter Notebook kernel
 - [supercollider-sublime](https://github.com/acarabott/supercollider-sublime) - SuperCollider plugin for Sublime Text 3
 
-## Other tools
+### (Neo)Vim
+- [scvim](https://github.com/supercollider/scvim) - Vim plugin
+- [scnvim](https://github.com/davidgranstrom/scnvim) - NeoVim plugin
+- [telescope-scdoc.nvim](https://github.com/davidgranstrom/telescope-scdoc.nvim) - Telescope help file plugin.
+- [supercollider-h4x-nvim](https://github.com/madskjeldgaard/supercollider-h4x-nvim) - Assorted SuperCollider hacks for SuperCollider in NeoVim.
+- [fzf-sc](https://github.com/madskjeldgaard/fzf-sc) - Fuzzy find all kinds of SuperCollider things.
+- [scratchpad-sc](https://github.com/madskjeldgaard/sc-scratchpad.nvim) - Popup scratchpad for short snippets.
+- [supercollider-piano](https://github.com/madskjeldgaard/nvim-supercollider-piano) - Use your keyboard keys to trigger synths like a piano roll in a DAW.
+
+### Other tools
 - [supercollider-tree-sitter](https://github.com/madskjeldgaard/tree-sitter-supercollider) - A tree-sitter grammar for SuperCollider (supported out of the box in [treesitter-nvim](https://github.com/nvim-treesitter/nvim-treesitter) for example). 
 
 ## Community
