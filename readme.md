@@ -4,6 +4,10 @@
 
 > A curated list of SuperCollider stuff
 
+# CONTRIBUTORS WANTED
+
+This list is hopelessly out of date with the many cool projects that have sprung up since it was started. If you want to help update it, feel free to submit pull requests.
+
 # Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
