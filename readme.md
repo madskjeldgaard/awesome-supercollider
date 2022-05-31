@@ -1,12 +1,13 @@
+# ARCHIVED
+
+This repo has been archived since I cannot maintain it anymore and noone has stepped up to take over. The info is still good but out of date (especially in the quarks department). Feel free to fork if you want to take over this project.
+
 # Awesome SuperCollider[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![chaos](chaos-algo.png "chaos")
 
 > A curated list of SuperCollider stuff
 
-# CONTRIBUTORS WANTED
-
-This list is hopelessly out of date with the many cool projects that have sprung up since it was started. If you want to help update it, feel free to submit pull requests.
 
 # Contents
 
